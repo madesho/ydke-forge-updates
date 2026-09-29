@@ -1,10 +1,10 @@
 {
-    "versionName":  "4.6",
-    "versionCode":  67,
-    "changelog":  "# YDKE Forge 4.6\r\n\r\nCorrezione interna: l\u0027aggiornamento in-app ora viene verificato automaticamente a ogni modifica.\r\n\r\n## Correzioni\r\n\r\n**Un controllo automatico impedisce che il problema della 4.4 torni**\r\nLa lettura dei certificati che firmano un aggiornamento era dentro un blocco che nessun test poteva esercitare, perché il ramo per Android 7 e 8 richiede un emulatore con quelle versioni. Ora la lettura è in un punto verificato separatamente e viene provata sia su Android 7 e 8 sia su Android 9 e successive. Se in futuro qualcuno tocca quel codice e sbaglia di nuovo, la compilazione automatica lo segnala.\r\n\r\nNessuna modifica al comportamento: l\u0027aggiornamento accetta esattamente gli stessi file di prima e rifiuta gli stessi.\r\n\r\n## Dettagli tecnici\r\n\r\n- Compilazione release ottimizzata\r\n- Nessuna modifica a interfaccia, dati, mazzi o preferenze\r\n",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v4.6/ydke-forge-4.6.apk",
-    "apkSha256":  "9C801188D881A0A0B5D3D34B6A3A29F1CD7BA4C193E5C46AB614693B7AC49AAB",
+    "versionName":  "4.7",
+    "versionCode":  68,
+    "changelog":  "# YDKE Forge 4.7\r\n\r\nCorrezione del dettaglio carta: ora apre davvero la carta che hai scelto.\r\n\r\n## Correzioni\r\n\r\n**Il dettaglio carta si apriva sulla carta sbagliata**\r\nAprendo i dettagli di una carta che non fosse la prima della lista, il foglio mostrava la prima carta dell\u0027elenco invece di quella scelta. Lo schermo lampeggiava in continuazione tra le due, immagine compresa. Il problema era presente dalla 4.1 e riguardava sia la scheda Ricerca sia i deck salvati e la schermata delle modifiche recenti.\r\n\r\nOra il foglio si apre sulla carta scelta e resta fermo. Scorrere avanti e indietro tra le carte funziona come prima.\r\n\r\n**Un controllo automatico impedisce che il problema torni**\r\nAggiunto un test che apre il foglio su una carta a scelta e verifica che sia quella mostrata. Se in futuro il comportamento si rompe di nuovo, la compilazione automatica lo segnala.\r\n\r\n## Dettagli tecnici\r\n\r\n- Compilazione release ottimizzata\r\n- Nessuna modifica a interfaccia, dati, mazzi o preferenze\r\n",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v4.7/ydke-forge-4.7.apk",
+    "apkSha256":  "42FA8449206E4E5115EAECE41F4071237DBCEDAB3CD249E11B0B1A3BEF31CDA3",
     "apkSize":  3819430,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v4.6",
-    "minVersionCode":  67
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v4.7",
+    "minVersionCode":  68
 }

@@ -1,10 +1,10 @@
 {
-    "versionName":  "4.5",
-    "versionCode":  66,
-    "changelog":  "# YDKE Forge 4.5\r\n\r\nCorrezione dell\u0027aggiornamento in-app su Android 7 e 8.\r\n\r\n## Correzioni\r\n\r\n**L\u0027aggiornamento in-app ora funziona anche su Android 7 e 8**\r\nNella versione 4.4 la verifica della firma del file scaricato usava un campo del sistema disponibile solo da Android 9. Su Android 7.0, 7.1, 8.0 e 8.1 l\u0027aggiornamento in-app non si installava e mostrava un errore generico. Ora la verifica usa il metodo corretto per ciascuna versione.\r\n\r\nLa correzione riguarda solo l\u0027aggiornamento in-app. Se l\u0027app era già aggiornata alla 4.4 non devi fare nulla: questa versione la scarica come tutte le altre. Se invece ti trovi su Android 7 o 8 e l\u0027aggiornamento in-app non ti funziona, scarica l\u0027APK dalla pagina delle release su GitHub.\r\n\r\nNessun dato perso: in ogni caso l\u0027app si rifiuta di installare un file non firmato con la chiave giusta, quindi un errore di questo tipo non può aver accettato un file sbagliato.\r\n\r\n## Dettagli tecnici\r\n\r\n- Compilazione release ottimizzata\r\n- La verifica automatica in fase di build ora segnala questo tipo di problema: era la causa del fallimento, e l\u0027ho corretta invece di silenziare il controllo\r\n- Nessuna modifica a interfaccia, dati, mazzi o preferenze\r\n",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v4.5/ydke-forge-4.5.apk",
-    "apkSha256":  "CD4DA3F9C681B9C9444BE91F65062C2C6632D30CBD982CE19C29319021285604",
+    "versionName":  "4.6",
+    "versionCode":  67,
+    "changelog":  "# YDKE Forge 4.6\r\n\r\nCorrezione interna: l\u0027aggiornamento in-app ora viene verificato automaticamente a ogni modifica.\r\n\r\n## Correzioni\r\n\r\n**Un controllo automatico impedisce che il problema della 4.4 torni**\r\nLa lettura dei certificati che firmano un aggiornamento era dentro un blocco che nessun test poteva esercitare, perché il ramo per Android 7 e 8 richiede un emulatore con quelle versioni. Ora la lettura è in un punto verificato separatamente e viene provata sia su Android 7 e 8 sia su Android 9 e successive. Se in futuro qualcuno tocca quel codice e sbaglia di nuovo, la compilazione automatica lo segnala.\r\n\r\nNessuna modifica al comportamento: l\u0027aggiornamento accetta esattamente gli stessi file di prima e rifiuta gli stessi.\r\n\r\n## Dettagli tecnici\r\n\r\n- Compilazione release ottimizzata\r\n- Nessuna modifica a interfaccia, dati, mazzi o preferenze\r\n",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v4.6/ydke-forge-4.6.apk",
+    "apkSha256":  "9C801188D881A0A0B5D3D34B6A3A29F1CD7BA4C193E5C46AB614693B7AC49AAB",
     "apkSize":  3819430,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v4.5",
-    "minVersionCode":  66
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v4.6",
+    "minVersionCode":  67
 }

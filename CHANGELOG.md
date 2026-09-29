@@ -1,29 +1,27 @@
-# YDKE Forge 4.1
+# YDKE Forge 4.2
 
-## Aggiornamento dell'interfaccia
-
-**Material 3 Expressive attivo**
-L'interfaccia passa all'ultima versione stabile di Material 3, che porta le API espressive fuori da experimental e le rende disponibili senza impostazioni. Il risultato visivo resta fedele a quello attuale: nessuno spostamento di layout, forme o colori. Verificato su tema chiaro, scuro e nero puro AMOLED.
+Questa è una versione di manutenzione: non cambia nulla di visibile, serve a rendere l'app più solida e più facile da mantenere.
 
 ## Correzioni
 
-**Il dettaglio carta non interrogava più la rete dal punto di vista**
-Aprendo il dettaglio di una carta, la traduzione veniva cercata direttamente dalla schermata, tenendo lo stato sparso nella finestra. Ora il lavoro è svolto una sola volta dal gestore dello stato e la schermata riceve solo il risultato. Questo corregge due difetti:
+**Aggiornamento in-app separato dal resto**
+La gestione degli aggiornamenti è stata isolata in un componente dedicato invece di stare dentro il gestore principale dello stato. Non cambia nulla per chi usa l'app: il controllo all'avvio resta silenzioso, la notifica compare solo quando lo chiedi tu e la verifica della firma del file scaricato continua a funzionare come prima.
 
-- passando le carte con lo swipe non si ripetevano più ricerche identiche: prima potevano partire contemporaneamente fino a tre ricerche della stessa traduzione, con richieste di rete ridondanti;
-- la carta tradotta non veniva più riletta dalla versione non tradotta al riaprire il dettaglio.
+**Un componente centrale per database e impostazioni**
+Prima, ogni avvio dell'app costruiva da capo i componenti di accesso a dati e preferenze. Ora esistono una volta sola: le schermate e il gestore dello stato leggono sempre gli stessi dati.
 
-**Il passaggio fra le carte con lo swipe e' piu' scattante**
-Cambiando carta con il dito o scorrendo la strip in alto, il salto di pagina non era più visibile. Ora la pagina segue in modo coerente.
+**Stato inutilizzato rimosso**
+Due indicatori che venivano aggiornati ma non mostravano mai nulla all'utente sono stati eliminati. Le notifiche di avanzamento della sincronizzazione passano dal canale già esistente, quindi il comportamento visibile non cambia.
 
-**Le quantita' scelte non si perdevano più**
-Il selettore di quantità per aggiungere a un deck salvato si azzerava in alcuni passaggi. Ora il valore è gestito insieme allo stato del riquadro.
+## Pulizia
 
-**Copia e incolla sugli appunti**
-Le operazioni di copia e incolla usano l'API aggiornata di Android, con il controllo del contenuto vuoto negli appunti che prima mancava.
+- Rimosso un file di test rimasto dal modello iniziale di Android Studio e ridati due file di test nomi con il nome di quello che verificano davvero
+- Rimosse quattro risorse mai usate
+- Aggiunte verifiche automatiche a ogni modifica: compilazione, test, controllo di qualità del codice e ricerca di credenziali tracciate per errore
+- Nessuna modifica al database, alle traduzioni, alle carte o al funzionamento offline
 
 ## Dettagli tecnici
 
 - Compilazione release ottimizzata
-- Nessuna modifica a database, traduzioni o carte: il funzionamento offline è identico
-- Nessuna modifica all'aggiornamento in-app: la verifica della firma dell'APK resta attiva
+- Nessuna dipendenza aggiunta o rimossa
+- Verificato che le tue impostazioni, i tuoi mazzi e il tema restino intatti dopo l'aggiornamento

@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.3.2",
-    "versionCode":  74,
-    "changelog":  "# YDKE Forge 5.3.2\n\nLa maniglia del dettaglio di una carta ora è alla stessa altezza di quella della scheda filtri.\n\n## Due maniglie, stessa altezza\n\nAprendo il dettaglio di una carta e poi i filtri, la maniglia di trascinamento stava **undici pixel più in basso** nella prima schermata che nella seconda. Undici pixel non sembrano niente, ma passando da una schermata all\u0027altra l\u0027occhio lo registra come un disallineamento.\n\nOra le due maniglie sono alla stessa altezza, misurata sullo stesso schermo: zero pixel di differenza. Insieme alla maniglia sale tutto il contenuto del dettaglio, quindi l\u0027immagine della carta parte un filo più in alto.\n\nIl riferimento è la scheda filtri **estesa a schermo pieno**, che è la posizione in cui le due si somigliano. I filtri non sono cambiati.\n\n## Dettagli tecnici\n\n- 89 controlli automatici\n- Compilazione release ottimizzata\n- Nessuna modifica a mazzi o preferenze esistenti",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.3.2/ydke-forge-5.3.2.apk",
-    "apkSha256":  "16EBDB72AB8294D4E0CBC89D58B3F696CD4AF620838FC8D1923ED136C05AE0BA",
-    "apkSize":  3835814,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.3.2",
-    "minVersionCode":  74
+    "versionName":  "5.3.3",
+    "versionCode":  75,
+    "changelog":  "# YDKE Forge 5.3.3\n\nTre piccole cose, tutte sulla stessa idea: due schermate che fanno la stessa cosa devono muoversi uguale.\n\n## La carta a schermo intero ha fondo nero, sempre\n\nAprendo una carta a tutto schermo, il fondo era **bianco nel tema chiaro**. Una carta con bordo chiaro su fondo chiaro si perdeva, e il fondo cambiava a seconda del tema che avevi scelto. Ora è nero a prescindere dal tema, come le gallerie di immagini, con la barra di stato a icone chiare che si leggono senza problemi su qualsiasi sfondo.\n\n## Il dettaglio di una carta non si chiude più per un colpo di pollice\n\nTirando giù il foglio del dettaglio bastava un colpo per chiuderlo, anche di pochissimo. Ora fa come la scheda filtri: se tiri giù e **sollevi il dito prima di aver superato un certo punto, il foglio torna su** invece di chiudersi. Serve un trascinamento più deciso, o un colpo rapido, per chiuderlo.\n\n## La maniglia del dettaglio si allunga e si accorcia come quella dei filtri\n\nLa casella che contiene la maniglia, quando nella scheda filtri sale verso la barra di stato, si allunga fino a riempirla; quando scende, si accorcia. Nel dettaglio della carta la casella restava ferma, perché il foglio è già a schermo intero e non aveva nulla da animare.\n\nOra si muove anche lei: a riposo è identica a quella dei filtri estesi, e trascinando il foglio giù si accorcia fino alla stessa misura che ha la scheda filtri al suo riposo. Gli angoli restano arrotondati, come sono sempre stati nel dettaglio.\n\n## Dettagli tecnici\n\n- 89 controlli automatici\n- Compilazione release ottimizzata\n- Nessuna modifica a mazzi o preferenze esistenti",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.3.3/ydke-forge-5.3.3.apk",
+    "apkSha256":  "58BF4B4F762EE224BC10F3751313EBB7A6F54CFBB53E1D4D6DD9F79886C32E1C",
+    "apkSize":  3835810,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.3.3",
+    "minVersionCode":  75
 }

@@ -1,10 +1,10 @@
 {
-    "apkSize":  3852374,
+    "versionName":  "5.8.4",
+    "versionCode":  89,
     "minVersionCode":  85,
-    "changelog":  "# YDKE Forge 5.8.3\n\nAvanzamento continuo in tempo reale del download carte e traduzioni sia nella notifica che nell\u0027applicazione, con barra animata fluida e incremento effettivo carta per carta.\n\n## Avanzamento in tempo reale del catalogo e delle traduzioni\n\nIl download delle carte e l\u0027elaborazione delle traduzioni mostrano ora l\u0027avanzamento effettivo in tempo reale carta per carta per l\u0027intera durata del processo: il contatore e la barra salgono continuamente senza pause, senza stati indeterminati prolungati e senza salti improvvisi a blocchi.\n\n## Barra e notifica perfettamente fluide\n\nNella schermata Database e Catalogo la barra di avanzamento scorre in modo continuo e uniforme a ogni carta elaborata, mentre la notifica nella tendina di sistema aggiorna costantemente la barra e il conteggio esatto delle carte elaborate.\n\n## Cosa non cambia\n\nI mazzi salvati e le funzionalita\u0027 esistenti restano intatti. L\u0027applicazione e\u0027 piu\u0027 rifinita, reattiva e piacevole da usare.",
-    "apkSha256":  "97CAB0F90E16E25A649A523F9A196D4BE1B9268275008A0D200FD5FBC3E45191",
-    "versionCode":  88,
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.3/ydke-forge-5.8.3.apk",
-    "versionName":  "5.8.3",
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.3"
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.4/ydke-forge-5.8.4.apk",
+    "apkSha256":  "A52BE0F6686EE390D85F53C2554A2E608B6674F5C3748FF62E64853CBD51EAE7",
+    "apkSize":  3852374,
+    "changelog":  "# YDKE Forge 5.8.4\n\nOttimizzazione del ciclo di vita dei processi in background, zoom focale con doppio tocco nella visualizzazione a schermo intero, rimozione delle notifiche superflue e rifiniture generali di stabilita\u0027.\n\n## Gestione immediata e pulita dei processi in background\n\nInterrompere l\u0027aggiornamento del catalogo o chiudere l\u0027applicazione arresta ora istantaneamente qualsiasi operazione in corso. E\u0027 stato eliminato il problema per cui la notifica di download poteva ricomparire alla chiusura forzata dell\u0027app, azzerando qualsiasi consumo residuo di risorse e batteria quando l\u0027applicazione non e\u0027 in uso.\n\n## Rimozione notifiche superflue\n\nLa notifica di completamento al termine del download e\u0027 stata rimossa per garantire un\u0027esperienza piu\u0027 discreta ed essenziale: la notifica rimane visibile solo durante l\u0027effettiva sincronizzazione per mostrare l\u0027avanzamento e scompare automaticamente appena terminata.\n\n## Zoom focale con doppio tocco migliorato\n\nNel visualizzatore di carte a schermo intero, il gesto del doppio tocco ingrandisce ora esattamente nel punto toccato sullo schermo anziche\u0027 centrare genericamente l\u0027immagine, rendendo l\u0027ispezione visiva di testi e dettagli artistici ancora piu\u0027 intuitiva e precisa.\n\n## Rifiniture generali di layout e prestazioni\n\nMigliorata la consistenza delle spaziature interne in tutti i fogli modali e i menu di ordinamento, insieme a ottimizzazioni mirate del codice per una maggiore reattivita\u0027 e pulizia generale.\n\n## Cosa non cambia\n\nI mazzi salvati e le funzionalita\u0027 esistenti restano intatti. L\u0027applicazione e\u0027 piu\u0027 rifinita, efficiente e fluida.",
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.4"
 }

@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.8.9",
-    "versionCode":  94,
-    "changelog":  "# YDKE Forge 5.8.9\n\nAllineamento completo dell\u0027architettura e del comportamento del foglio modale dei filtri a quello della scheda dettagli carta: scorrimento verso il basso e trascinamento sincronizzati con il contenuto, prevenzione delle chiusure accidentali e contrasto nativo per barra di stato e testi.\n\n## Replicazione dell\u0027architettura e gesture del dettaglio carta sui filtri\n\nLa scheda filtri (CardFilterBottomSheet) adotta ora l\u0027architettura WindowSheetOverlay con apertura a tutta altezza (collapsedFraction = 1f), ereditando la medesima fisica di movimento e coordinamento gesture del dettaglio carta (CardDetailDialog). Ãˆ ora possibile trascinare verso il basso il foglio sia dalla maniglia/intestazione superiore sia direttamente dal contenuto scrollabile quando ci si trova in cima all\u0027elenco, garantendo al contempo che lo scorrimento verso l\u0027alto o verso il basso delle opzioni di filtro non provochi chiusure indesiderate.\n\n## Contrasto e gestione dinamica della barra di stato\n\nGrazie alla finestra isolata con decorazioni di sistema edge-to-edge, le icone e i testi della barra di stato riflettono fedelmente il tema corrente (icone bianche nitide in tema scuro e AMOLED, icone scure in tema chiaro), eliminando qualsiasi anomalia di contrasto durante l\u0027interazione con i filtri di ricerca e del visualizzatore mazzi.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.9/ydke-forge-5.8.9.apk",
-    "apkSha256":  "C6F1AFB6905F985B61E9A03752BC5EE6FAA16873A50279D8E9E517E12C40B3C3",
-    "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.9",
+    "versionName":  "5.8.10",
+    "versionCode":  95,
+    "changelog":  "# YDKE Forge 5.8.10\n\nAllineamento cromatico del foglio modale dei filtri ai fogli di ordinamento e visualizzazione: applicazione dell\u0027elevazione tonale surfaceColorAtElevation(6.dp) legata al colore d\u0027accento del tema attivo.\n\n## Coerenza cromatica dello sfondo dei fogli modali\n\nLo sfondo della scheda filtri (CardFilterBottomSheet) adotta ora la medesima colorazione dinamica surfaceColorAtElevation(6.dp) dei fogli di ordinamento e visualizzazione (CardSortAndViewBottomSheet), armonizzandosi perfettamente con il colore primario d\u0027accento del tema selezionato (inclusi Oro Millenario, Slifer, Obelisk, Ra e i temi standard).",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.10/ydke-forge-5.8.10.apk",
+    "apkSha256":  "B9D15533831D0CCF1662EE5A268868A95CFF28049A1B24D88E390BE08065BE8F",
+    "apkSize":  3852378,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.10",
     "minVersionCode":  85
 }

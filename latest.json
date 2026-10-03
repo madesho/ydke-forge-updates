@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.8.10",
-    "versionCode":  95,
-    "changelog":  "# YDKE Forge 5.8.10\n\nAllineamento cromatico del foglio modale dei filtri ai fogli di ordinamento e visualizzazione: applicazione dell\u0027elevazione tonale surfaceColorAtElevation(6.dp) legata al colore d\u0027accento del tema attivo.\n\n## Coerenza cromatica dello sfondo dei fogli modali\n\nLo sfondo della scheda filtri (CardFilterBottomSheet) adotta ora la medesima colorazione dinamica surfaceColorAtElevation(6.dp) dei fogli di ordinamento e visualizzazione (CardSortAndViewBottomSheet), armonizzandosi perfettamente con il colore primario d\u0027accento del tema selezionato (inclusi Oro Millenario, Slifer, Obelisk, Ra e i temi standard).",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.10/ydke-forge-5.8.10.apk",
-    "apkSha256":  "B9D15533831D0CCF1662EE5A268868A95CFF28049A1B24D88E390BE08065BE8F",
+    "versionName":  "5.8.11",
+    "versionCode":  96,
+    "changelog":  "# YDKE Forge 5.8.11\n\nOttimizzazione completa e refactoring architetturale dell\u0027applicazione: prestazioni di rendering migliorate, navigazione piu\u0027 reattiva, elaborazione accelerata delle traduzioni e consumo di memoria ottimizzato.\n\n## Prestazioni e reattivita\u0027 dell\u0027interfaccia\n\nOttimizzato il ciclo di aggiornamento delle schermate principali, delle impostazioni e delle schede informative, eliminando ricaricamenti ridondanti dei dati e garantendo transizioni visive ancora piu\u0027 fluide e immediate tra le varie sezioni.\n\n## Efficienza dell\u0027elaborazione e della sincronizzazione\n\nMigliorata la velocita\u0027 di analisi testuale e di caricamento degli indici delle risorse esterne durante la consultazione e la traduzione delle carte, con una gestione asincrona piu\u0027 snella che riduce l\u0027impatto sulla batteria e sull\u0027utilizzo della memoria.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.11/ydke-forge-5.8.11.apk",
+    "apkSha256":  "3E4F743394A0D0104C831A0664943F4AF57CF44E997632AD13CCE74FF2B82DB3",
     "apkSize":  3852378,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.10",
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.11",
     "minVersionCode":  85
 }

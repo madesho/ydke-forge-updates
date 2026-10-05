@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.8.17",
-    "versionCode":  102,
-    "changelog":  "# YDKE Forge 5.8.17\n\nCentratura geometrica e ottimizzazione del pulsante di ordinamento e vista, miglioramento delle proporzioni della barra di stato ed elegante armonizzazione cromatica dei componenti dell\u0027interfaccia.\n\n## Centratura perfetta e proporzioni del pulsante di ordinamento\nRinnovato il pulsante di ordinamento e modalita\u0027 di visualizzazione in tutte le schermate in cui compare (Ricerca Carte, Visualizzatore del Deck e Ultime Modifiche). L\u0027icona interna e\u0027 ora perfettamente centrata al millimetro su tutti e quattro i lati e l\u0027altezza della barra di stato e\u0027 stata incrementata da 40dp a 48dp, offrendo margini ampi, armoniosi e conformi alle linee guida di Material Design.\n\n## Armonizzazione cromatica e continuita\u0027 visiva dei componenti\nUnificata la tonalita\u0027 di grigio dello sfondo del pulsante di ordinamento, dei divisori di sezione del mazzo (Main Deck, Extra Deck e Side Deck), delle card dei mazzi salvati e di tutte le card della schermata Convertitore, facendole coincidere esattamente con il colore semitrasparente elegante della barra di ricerca. L\u0027intera applicazione acquisisce un\u0027eccellente continuita\u0027 visiva, pulizia grafica e coerenza estetica.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.8.17/ydke-forge-5.8.17.apk",
-    "apkSha256":  "A7E5957E763CC62B753696EA5D9C3EB72BB624ED1276B5164CED1FE055203AD0",
-    "apkSize":  3852378,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.8.17",
-    "minVersionCode":  85
+    "versionName":  "5.9",
+    "versionCode":  103,
+    "changelog":  "# YDKE Forge 5.9\n\nRelease di manutenzione. Nessuna funzione nuova e nessun cambiamento a quello che vedi.\n\n## Interrompere una ricerca di traduzioni ora funziona sempre\n\nSe annullavi una ricerca di traduzioni mentre era in corso, in un caso l\u0027app poteva non accorgersene e continuare a lavorare per un momento invece di fermarsi. Ora si ferma subito.\n\n## Progetto ripulito\n\nRimosse parti del progetto che non venivano piu\u0027 utilizzate e reso uniforme uno stile che era misto. E\u0027 lavoro che non si vede, ma rende piu\u0027 rapide e piu\u0027 sicure le modifiche future.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9/ydke-forge-5.9.apk",
+    "apkSha256":  "603614B8004C2B6D9D15C5915DCA84358E1771CFE73C4CE7273080F55BF078F8",
+    "apkSize":  3852374,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9",
+    "minVersionCode":  103
 }

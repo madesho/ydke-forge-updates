@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9",
-    "versionCode":  103,
-    "changelog":  "# YDKE Forge 5.9\n\nRelease di manutenzione. Nessuna funzione nuova e nessun cambiamento a quello che vedi.\n\n## Interrompere una ricerca di traduzioni ora funziona sempre\n\nSe annullavi una ricerca di traduzioni mentre era in corso, in un caso l\u0027app poteva non accorgersene e continuare a lavorare per un momento invece di fermarsi. Ora si ferma subito.\n\n## Progetto ripulito\n\nRimosse parti del progetto che non venivano piu\u0027 utilizzate e reso uniforme uno stile che era misto. E\u0027 lavoro che non si vede, ma rende piu\u0027 rapide e piu\u0027 sicure le modifiche future.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9/ydke-forge-5.9.apk",
-    "apkSha256":  "603614B8004C2B6D9D15C5915DCA84358E1771CFE73C4CE7273080F55BF078F8",
+    "versionName":  "5.9.1",
+    "versionCode":  104,
+    "changelog":  "# YDKE Forge 5.9.1\n\nUn passaggio sull\u0027aspetto dell\u0027app: angoli, bordi, colori e leggibilita\u0027 dei pulsanti, per rendere le schermate coerenti fra loro.\n\n## Gli angoli erano tutti diversi\n\nIn giro per l\u0027app gli angoli erano arrotondati in quattordici modi diversi, e due schermate che mostravano lo stesso tipo di elemento potevano arrotondarlo in modo diverso. Ora ogni tipo di elemento ha un raggio solo: i fogli che salgono dal basso, le schede, i pulsanti, i chip, i badge.\n\n## Il testo dei pulsanti si legge meglio\n\nI pulsanti di secondo livello avevano il testo dello stesso colore del fondo, e in tema scuro si leggevano a fatica. Ora il fondo e\u0027 piu\u0027 tenue e il testo si stacca. La correzione riguarda i tre pulsanti dentro la scheda di un mazzo salvato, il tasto per aggiungere una carta dalle liste, i due tasti della quantita\u0027 nel dettaglio carta, e altri tre.\n\n## Meno linee dove non servivano\n\nDiverse schede avevano insieme il bordo e un fondo colorato: due modi per dire la stessa cosa. Dove il fondo basta a staccare la scheda dallo sfondo, il bordo e\u0027 stato tolto. Resta dove serve davvero, cioe\u0027 dove il fondo e\u0027 identico a quello che c\u0027e\u0027 dietro.\n\n## I colori d\u0027accento solo dove servono\n\nNella scheda di un mazzo salvato i tre pulsanti Copia, Codice QR e Condividi erano colorati tutti e tre come il pulsante principale, e non si capiva piu\u0027 quale fosse l\u0027azione importante della schermata. Ora l\u0027unico a restare colorato e\u0027 il pulsante per aggiungere un mazzo. Stessa cosa per il tasto che aggiunge una carta dalle liste di ricerca, che era ripetuto e colorato su ogni riga.\n\n## Movimento piu\u0027 naturale\n\nLe animazioni di aperture, chiusure e ingrandimenti seguono ora le curve di movimento del sistema invece di quelle della versione precedente: gli spostamenti partono e si assestano in modo piu\u0027 naturale.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.1/ydke-forge-5.9.1.apk",
+    "apkSha256":  "2F14FBC2DFD71264F0AA515163F79156B85423B722F640A588D90A39E20FF4F0",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9",
-    "minVersionCode":  103
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.1",
+    "minVersionCode":  104
 }

@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.2",
-    "versionCode":  105,
-    "changelog":  "# YDKE Forge 5.9.2\n\nDue correzioni all\u0027aspetto del convertitore, che era rimasto indietro rispetto al resto dell\u0027app.\n\n## Le schede del convertitore avevano un contorno che le altre non hanno\n\nLe tre schede della schermata Convertitore erano contornate da una linea, mentre le schede delle altre schermate no: si distinguono dal fondo solo per il colore leggermente piu\u0027 chiaro. Ora sono tutte uguali.\n\n## I pulsanti del convertitore erano disegnati diversamente dagli altri\n\nI sei pulsanti secondari del convertitore avevano un contorno e nessun riempimento, mentre gli stessi pulsanti nelle altre schermate sono pieni. Ora sono pieni anche loro, e si leggono allo stesso modo.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.2/ydke-forge-5.9.2.apk",
-    "apkSha256":  "5A31D5CF9A5FC78C84B1B64F6C879489DCDBF1D7AE344D35E3251374735B3E5F",
+    "versionName":  "5.9.3",
+    "versionCode":  106,
+    "changelog":  "# YDKE Forge 5.9.3\n\nAlcune animazioni erano troppo rapide all\u0027inizio e quasi immobili alla fine: il movimento sembrava uno scatto seguito da un\u0027attesa. Ora ognuna ha la velocita\u0027 e la curva che le competono.\n\n## L\u0027immagine a schermo intero si apre e si chiude con piu\u0027 calma\n\nAprire una carta a tutto schermo era un salto improvviso: quasi tutto il movimento si consumava nei primi millisecondi e il resto era impercettibile. L\u0027apertura ora dura il giusto e accompagna l\u0027occhio, mentre la chiusura accelera verso la miniatura di partenza, come deve fare un elemento che lascia la scena.\n\n## Tempi uniformi in tutta l\u0027app\n\nLe transizioni fra le schermate, i fogli che salgono dal basso e i contenuti che compaiono avevano durate tutte diverse, spesso fuori standard. Ora seguono una scala unica: chi entra in scena rallenta arrivando, chi esce accelera sparendo, chi cambia restando al suo posto si muove in modo neutro.\n\n## Due pulsanti che cambiavano testo di scatto\n\n\"Converti Mazzo\" e \"Controlla aggiornamenti\" sostituivano il proprio contenuto istantaneamente, appena partiva l\u0027operazione. Ora il passaggio e\u0027 sfumato.\n\n## L\u0027indicatore di ricerca compare con delicatezza\n\nMentre la ricerca si affina, il piccolo indicatore accanto al conteggio delle carte appariva e spariva di colpo. Ora sfuma.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.3/ydke-forge-5.9.3.apk",
+    "apkSha256":  "A15A29EE60D7459DB250F386528CEA4259610E94E4F26AC1EF78DF582323BF73",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.2",
-    "minVersionCode":  105
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.3",
+    "minVersionCode":  106
 }

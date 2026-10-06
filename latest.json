@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.9",
-    "versionCode":  112,
-    "changelog":  "# YDKE Forge 5.9.9\n\n## I messaggi dell\u0027app non vengono piu\u0027 tagliati\n\nOgni tanto un messaggio dell\u0027app compariva tagliato a meta\u0027: e\u0027 un limite del sistema, che sui telefoni recenti mostra al massimo due righe. Ora i messaggi dell\u0027app hanno una veste propria, che non ha quel limite, usa i colori del tema e puo\u0027 mostrare una voce per riga. Il messaggio dell\u0027aggiornamento del database, in particolare, elenca ora le novita\u0027 su righe separate invece di stringerle tutte su una riga sola.\n\n## Niente piu\u0027 avviso inutile a ogni avvio\n\nAprendo l\u0027app compariva un avviso di sincronizzazione con tutti i valori a zero, anche quando non c\u0027era nulla da scaricare. Il controllo che l\u0027app fa da sola all\u0027avvio ora resta silenzioso quando non trova niente: la richiesta fatta da te, invece, continua a rispondere.\n\n## Il cambio di tema e\u0027 fluido\n\nPassando dal tema chiaro a quello scuro, o attivando il nero puro AMOLED, l\u0027app cambiava i colori di colpo. Ora li accompagna, come fa per ogni altra animazione.\n\n## L\u0027avviso di aggiornamento dell\u0027app e\u0027 piu\u0027 discreto\n\nNell\u0027intestazione, accanto al nome dell\u0027app, l\u0027avviso di nuova versione occupava spazio con un\u0027etichetta. Ora e\u0027 una sola icona, allineata al titolo.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.9/ydke-forge-5.9.9.apk",
-    "apkSha256":  "F34477F372EE96A90E9AB6A26CD614D951E1CE71492BABB37B92BE4CCD56573F",
-    "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.9",
-    "minVersionCode":  112
+    "versionName":  "5.9.10",
+    "versionCode":  113,
+    "changelog":  "# YDKE Forge 5.9.10\n\n## L\u0027icona dell\u0027aggiornamento e\u0027 ora in linea col titolo\n\nL\u0027avviso di nuova versione, accanto al nome dell\u0027app, e\u0027 ora un comando della barra esattamente come quello delle impostazioni che gli sta accanto: stessa altezza e stesso allineamento al titolo.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.10/ydke-forge-5.9.10.apk",
+    "apkSha256":  "E9FE8572060F4D048B20B8419AB23D2F77CD6EBC439ADF838E85672FA3E410F1",
+    "apkSize":  3852378,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.10",
+    "minVersionCode":  113
 }

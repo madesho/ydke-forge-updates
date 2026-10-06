@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.6",
-    "versionCode":  109,
-    "changelog":  "# YDKE Forge 5.9.6\n\n## Le due schermate ora si muovono insieme\n\nPassando da una scheda all\u0027altra la schermata che arrivava scattava in avanti mentre quella che lasciava il posto si spostava appena, e il passaggio risultava spezzato in due. Ora percorrono la stessa distanza, nello stesso tempo e con la stessa curva: si scambiano il posto come le pagine di un libro, e si capisce a colpo d\u0027occhio da dove si arriva e dove si va.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.6/ydke-forge-5.9.6.apk",
-    "apkSha256":  "C50A7DDBE57842BFFC5BE6DD9CADA3BB9B78079F31D5F1D393A270839AEACACF",
+    "versionName":  "5.9.7",
+    "versionCode":  110,
+    "changelog":  "# YDKE Forge 5.9.7\n\nTutte le animazioni dell\u0027app ora seguono lo stesso criterio: prima ogni schermata sceglieva durata e curva per conto proprio, e lo stesso movimento poteva sembrare diverso da una parte all\u0027altra.\n\n## Le schermate si scambiano il posto allo stesso modo\n\nAprire e chiudere le Impostazioni o un mazzo salvato aveva un\u0027animazione tutta sua, con la schermata sottostante che si spostava di poco e si scuriva. Ora si comportano come le schede in basso: le due schermate percorrono la stessa distanza in versi opposti e si scambiano il posto insieme. Lo stesso vale per il passaggio da una categoria all\u0027altra dentro le Impostazioni.\n\n## Comparse piu\u0027 uniformi\n\nLa X per svuotare i campi, la chip per reimpostare i filtri, l\u0027indicatore di ricerca, la barra di stato dentro un mazzo e il passaggio fra la guida e il risultato nel convertitore: ognuno compariva a modo suo, e alcuni usavano ancora una curva superata. Ora entrano ed escono tutti con la stessa dissolvenza e lo stesso breve ingrandimento, aprendo lo spazio necessario invece di far saltare quello accanto.\n\n## Un solo tempo per tutto\n\nLe animazioni dell\u0027app avevano sei durate diverse. Ora ne hanno una sola, e le poche che restano diverse lo sono per un motivo: l\u0027immagine a schermo intero, i fogli che salgono dal basso, la griglia del mazzo che si espande, il colore del tema e le barre di caricamento.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.7/ydke-forge-5.9.7.apk",
+    "apkSha256":  "994750A46FB929ED11A9E4E006FF1CC9F28093962379EE497A096DDDD481AD02",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.6",
-    "minVersionCode":  109
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.7",
+    "minVersionCode":  110
 }

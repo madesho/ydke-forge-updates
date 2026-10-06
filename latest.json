@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.4",
-    "versionCode":  107,
-    "changelog":  "# YDKE Forge 5.9.4\n\nDue ritocchi alle animazioni introdotte con l\u0027aggiornamento precedente.\n\n## Il testo del pulsante di conversione non si sposta piu\u0027\n\nQuando la conversione partiva, l\u0027etichetta \"Converti Mazzo\" scattava di lato prima di dissolversi e tornava al centro con uno scatto alla fine. Ora il passaggio fra \"Converti Mazzo\" ed \"Elaborazione in corso...\" avviene senza che nulla si muova. Lo stesso vale per il pulsante \"Controlla aggiornamenti\".\n\n## Le schede ora entrano ed escono lateralmente\n\nPassando da una scheda all\u0027altra (Convertitore, Ricerca, Decks), la schermata che arriva entra dal lato verso cui ci si sta muovendo, mentre quella che si lascia scivola leggermente nel verso opposto. Il movimento e\u0027 breve e accompagnato da una dissolvenza: si capisce a colpo d\u0027occhio da dove si arriva e dove si va.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.4/ydke-forge-5.9.4.apk",
-    "apkSha256":  "7118CDD77C31CEBB91037FF49D33B95B79EDA575EC25DCB07668647ACCCA7F40",
+    "versionName":  "5.9.5",
+    "versionCode":  108,
+    "changelog":  "# YDKE Forge 5.9.5\n\n## Le etichette sopra il campo della decklist sono sparite\n\nSopra il campo dove incolli la decklist c\u0027erano delle etichette che dicevano \"In attesa di dati\" oppure \"Rilevato: Decklist Nomi\": descrivevano quello che avevi scritto senza che tu potessi farci niente. Al loro posto c\u0027e\u0027 il pulsante per svuotare il campo con un tocco, lo stesso che trovi nelle barre di ricerca.\n\n## Il pulsante per svuotare compare con delicatezza\n\nNelle barre di ricerca e nel campo della decklist, la X per cancellare il testo compariva di colpo appena iniziavi a scrivere. Ora entra e esce con una dissolvenza accompagnata da un breve ingrandimento, invece di apparire e sparire di scatto.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.5/ydke-forge-5.9.5.apk",
+    "apkSha256":  "4F800B1EFFF1910430D0B48A5FDB86FA8D792EC529BAECCD1502FCFB3CC78B65",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.4",
-    "minVersionCode":  107
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.5",
+    "minVersionCode":  108
 }

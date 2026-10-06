@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.5",
-    "versionCode":  108,
-    "changelog":  "# YDKE Forge 5.9.5\n\n## Le etichette sopra il campo della decklist sono sparite\n\nSopra il campo dove incolli la decklist c\u0027erano delle etichette che dicevano \"In attesa di dati\" oppure \"Rilevato: Decklist Nomi\": descrivevano quello che avevi scritto senza che tu potessi farci niente. Al loro posto c\u0027e\u0027 il pulsante per svuotare il campo con un tocco, lo stesso che trovi nelle barre di ricerca.\n\n## Il pulsante per svuotare compare con delicatezza\n\nNelle barre di ricerca e nel campo della decklist, la X per cancellare il testo compariva di colpo appena iniziavi a scrivere. Ora entra e esce con una dissolvenza accompagnata da un breve ingrandimento, invece di apparire e sparire di scatto.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.5/ydke-forge-5.9.5.apk",
-    "apkSha256":  "4F800B1EFFF1910430D0B48A5FDB86FA8D792EC529BAECCD1502FCFB3CC78B65",
+    "versionName":  "5.9.6",
+    "versionCode":  109,
+    "changelog":  "# YDKE Forge 5.9.6\n\n## Le due schermate ora si muovono insieme\n\nPassando da una scheda all\u0027altra la schermata che arrivava scattava in avanti mentre quella che lasciava il posto si spostava appena, e il passaggio risultava spezzato in due. Ora percorrono la stessa distanza, nello stesso tempo e con la stessa curva: si scambiano il posto come le pagine di un libro, e si capisce a colpo d\u0027occhio da dove si arriva e dove si va.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.6/ydke-forge-5.9.6.apk",
+    "apkSha256":  "C50A7DDBE57842BFFC5BE6DD9CADA3BB9B78079F31D5F1D393A270839AEACACF",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.5",
-    "minVersionCode":  108
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.6",
+    "minVersionCode":  109
 }

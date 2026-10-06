@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.10",
-    "versionCode":  113,
-    "changelog":  "# YDKE Forge 5.9.10\n\n## L\u0027icona dell\u0027aggiornamento e\u0027 ora in linea col titolo\n\nL\u0027avviso di nuova versione, accanto al nome dell\u0027app, e\u0027 ora un comando della barra esattamente come quello delle impostazioni che gli sta accanto: stessa altezza e stesso allineamento al titolo.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.10/ydke-forge-5.9.10.apk",
-    "apkSha256":  "E9FE8572060F4D048B20B8419AB23D2F77CD6EBC439ADF838E85672FA3E410F1",
+    "versionName":  "5.10",
+    "versionCode":  114,
+    "changelog":  "# YDKE Forge 5.10\n\n## I due comandi di aggiornamento ora dicono cosa fanno\n\nPrima c\u0027erano un pulsante di sincronizzazione e, solo in certe condizioni, un secondo per ricontrollare le traduzioni. Ora sono due comandi distinti e sempre presenti:\n\n- **\"Scarica carte e traduzioni\"** recupera solo le novita\u0027 fra il database che hai e le fonti: carte, traduzioni di nomi ed effetti, date e immagini aggiornate.\n- **\"Risincronizza database\"** ricontrolla e riscarica tutto da capo, quando sospetti che manchi qualcosa.\n\n## Quando non c\u0027e\u0027 niente da scaricare, l\u0027app te lo dice\n\nPremendo \"Scarica carte e traduzioni\" senza novita\u0027 disponibili compare \"Nessuna nuova carta o traduzione disponibile\". Il controllo che l\u0027app fa da sola all\u0027avvio resta invece silenzioso, come deve essere.\n\n## Il progresso dice da dove sta scaricando\n\nDurante l\u0027aggiornamento, accanto al conteggio compare la fonte in uso: per esempio \"Ricerca nuove traduzioni 5/500 (Yugipedia)\".\n\n## Le date delle traduzioni sono quelle reali\n\nLe carte che arrivano dai cataloghi esterni di traduzioni ora portano la data in cui sono comparse davvero, non quella in cui hai premuto il pulsante.\n\n## Le immagini sostituite si vedono\n\nSe un\u0027immagine viene aggiornata, l\u0027app la riscarica. Le altre restano in memoria e non vengono riscaricate inutilmente.\n\n## La barra dei messaggi segue il tema\n\nLa barra che mostra i messaggi dell\u0027app ora prende i colori dallo schermo: chiara col tema chiaro, scura col tema scuro e col nero puro AMOLED.\n\n## Modifiche recenti si apre come le altre schermate\n\nLa schermata delle modifiche recenti ora entra ed esce con la stessa animazione del resto dell\u0027app, invece di comparire di colpo.\n\n## Una card ridondante in meno\n\nRimossa la card \"Copertura bilingue completa\" da Aspetto e lingua: spiegava una cosa che si capisce dalle opzioni che ha sopra.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.10/ydke-forge-5.10.apk",
+    "apkSha256":  "F8669D4928BAAD6C64661BEEC347D4B8BF7E578ADEADFD8AAA24BAD5F93F7C47",
     "apkSize":  3852378,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.10",
-    "minVersionCode":  113
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.10",
+    "minVersionCode":  114
 }

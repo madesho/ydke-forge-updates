@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.3",
-    "versionCode":  106,
-    "changelog":  "# YDKE Forge 5.9.3\n\nAlcune animazioni erano troppo rapide all\u0027inizio e quasi immobili alla fine: il movimento sembrava uno scatto seguito da un\u0027attesa. Ora ognuna ha la velocita\u0027 e la curva che le competono.\n\n## L\u0027immagine a schermo intero si apre e si chiude con piu\u0027 calma\n\nAprire una carta a tutto schermo era un salto improvviso: quasi tutto il movimento si consumava nei primi millisecondi e il resto era impercettibile. L\u0027apertura ora dura il giusto e accompagna l\u0027occhio, mentre la chiusura accelera verso la miniatura di partenza, come deve fare un elemento che lascia la scena.\n\n## Tempi uniformi in tutta l\u0027app\n\nLe transizioni fra le schermate, i fogli che salgono dal basso e i contenuti che compaiono avevano durate tutte diverse, spesso fuori standard. Ora seguono una scala unica: chi entra in scena rallenta arrivando, chi esce accelera sparendo, chi cambia restando al suo posto si muove in modo neutro.\n\n## Due pulsanti che cambiavano testo di scatto\n\n\"Converti Mazzo\" e \"Controlla aggiornamenti\" sostituivano il proprio contenuto istantaneamente, appena partiva l\u0027operazione. Ora il passaggio e\u0027 sfumato.\n\n## L\u0027indicatore di ricerca compare con delicatezza\n\nMentre la ricerca si affina, il piccolo indicatore accanto al conteggio delle carte appariva e spariva di colpo. Ora sfuma.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.3/ydke-forge-5.9.3.apk",
-    "apkSha256":  "A15A29EE60D7459DB250F386528CEA4259610E94E4F26AC1EF78DF582323BF73",
+    "versionName":  "5.9.4",
+    "versionCode":  107,
+    "changelog":  "# YDKE Forge 5.9.4\n\nDue ritocchi alle animazioni introdotte con l\u0027aggiornamento precedente.\n\n## Il testo del pulsante di conversione non si sposta piu\u0027\n\nQuando la conversione partiva, l\u0027etichetta \"Converti Mazzo\" scattava di lato prima di dissolversi e tornava al centro con uno scatto alla fine. Ora il passaggio fra \"Converti Mazzo\" ed \"Elaborazione in corso...\" avviene senza che nulla si muova. Lo stesso vale per il pulsante \"Controlla aggiornamenti\".\n\n## Le schede ora entrano ed escono lateralmente\n\nPassando da una scheda all\u0027altra (Convertitore, Ricerca, Decks), la schermata che arriva entra dal lato verso cui ci si sta muovendo, mentre quella che si lascia scivola leggermente nel verso opposto. Il movimento e\u0027 breve e accompagnato da una dissolvenza: si capisce a colpo d\u0027occhio da dove si arriva e dove si va.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.4/ydke-forge-5.9.4.apk",
+    "apkSha256":  "7118CDD77C31CEBB91037FF49D33B95B79EDA575EC25DCB07668647ACCCA7F40",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.3",
-    "minVersionCode":  106
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.4",
+    "minVersionCode":  107
 }

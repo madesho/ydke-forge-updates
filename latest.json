@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.7",
-    "versionCode":  110,
-    "changelog":  "# YDKE Forge 5.9.7\n\nTutte le animazioni dell\u0027app ora seguono lo stesso criterio: prima ogni schermata sceglieva durata e curva per conto proprio, e lo stesso movimento poteva sembrare diverso da una parte all\u0027altra.\n\n## Le schermate si scambiano il posto allo stesso modo\n\nAprire e chiudere le Impostazioni o un mazzo salvato aveva un\u0027animazione tutta sua, con la schermata sottostante che si spostava di poco e si scuriva. Ora si comportano come le schede in basso: le due schermate percorrono la stessa distanza in versi opposti e si scambiano il posto insieme. Lo stesso vale per il passaggio da una categoria all\u0027altra dentro le Impostazioni.\n\n## Comparse piu\u0027 uniformi\n\nLa X per svuotare i campi, la chip per reimpostare i filtri, l\u0027indicatore di ricerca, la barra di stato dentro un mazzo e il passaggio fra la guida e il risultato nel convertitore: ognuno compariva a modo suo, e alcuni usavano ancora una curva superata. Ora entrano ed escono tutti con la stessa dissolvenza e lo stesso breve ingrandimento, aprendo lo spazio necessario invece di far saltare quello accanto.\n\n## Un solo tempo per tutto\n\nLe animazioni dell\u0027app avevano sei durate diverse. Ora ne hanno una sola, e le poche che restano diverse lo sono per un motivo: l\u0027immagine a schermo intero, i fogli che salgono dal basso, la griglia del mazzo che si espande, il colore del tema e le barre di caricamento.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.7/ydke-forge-5.9.7.apk",
-    "apkSha256":  "994750A46FB929ED11A9E4E006FF1CC9F28093962379EE497A096DDDD481AD02",
+    "versionName":  "5.9.8",
+    "versionCode":  111,
+    "changelog":  "# YDKE Forge 5.9.8\n\nLe ultime due animazioni che avevano tempi propri si allineano a tutto il resto.\n\n## La griglia del mazzo si apre con lo stesso tempo delle altre\n\nPassare dalla vista compatta a quella espansa impiegava piu\u0027 tempo del resto dell\u0027app, e il movimento si esauriva quasi tutto all\u0027inizio per poi strisciare. Ora segue lo stesso tempo delle altre animazioni, con il movimento distribuito in modo uniforme: piu\u0027 morbido in partenza e un decimo di secondo piu\u0027 rapido.\n\n## Il colore d\u0027accento cambia insieme al resto\n\nCambiando tema, il colore d\u0027accento si assestava con un tempo tutto suo, piu\u0027 lento di ogni altra animazione dell\u0027app. Ora si assesta nello stesso tempo di tutte le altre.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.8/ydke-forge-5.9.8.apk",
+    "apkSha256":  "DCA7034DFD210E95ECA9A88B1891186AC5B24DC3B20D037A116241E6A47ECBE9",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.7",
-    "minVersionCode":  110
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.8",
+    "minVersionCode":  111
 }

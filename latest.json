@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.9.8",
-    "versionCode":  111,
-    "changelog":  "# YDKE Forge 5.9.8\n\nLe ultime due animazioni che avevano tempi propri si allineano a tutto il resto.\n\n## La griglia del mazzo si apre con lo stesso tempo delle altre\n\nPassare dalla vista compatta a quella espansa impiegava piu\u0027 tempo del resto dell\u0027app, e il movimento si esauriva quasi tutto all\u0027inizio per poi strisciare. Ora segue lo stesso tempo delle altre animazioni, con il movimento distribuito in modo uniforme: piu\u0027 morbido in partenza e un decimo di secondo piu\u0027 rapido.\n\n## Il colore d\u0027accento cambia insieme al resto\n\nCambiando tema, il colore d\u0027accento si assestava con un tempo tutto suo, piu\u0027 lento di ogni altra animazione dell\u0027app. Ora si assesta nello stesso tempo di tutte le altre.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.8/ydke-forge-5.9.8.apk",
-    "apkSha256":  "DCA7034DFD210E95ECA9A88B1891186AC5B24DC3B20D037A116241E6A47ECBE9",
+    "versionName":  "5.9.9",
+    "versionCode":  112,
+    "changelog":  "# YDKE Forge 5.9.9\n\n## I messaggi dell\u0027app non vengono piu\u0027 tagliati\n\nOgni tanto un messaggio dell\u0027app compariva tagliato a meta\u0027: e\u0027 un limite del sistema, che sui telefoni recenti mostra al massimo due righe. Ora i messaggi dell\u0027app hanno una veste propria, che non ha quel limite, usa i colori del tema e puo\u0027 mostrare una voce per riga. Il messaggio dell\u0027aggiornamento del database, in particolare, elenca ora le novita\u0027 su righe separate invece di stringerle tutte su una riga sola.\n\n## Niente piu\u0027 avviso inutile a ogni avvio\n\nAprendo l\u0027app compariva un avviso di sincronizzazione con tutti i valori a zero, anche quando non c\u0027era nulla da scaricare. Il controllo che l\u0027app fa da sola all\u0027avvio ora resta silenzioso quando non trova niente: la richiesta fatta da te, invece, continua a rispondere.\n\n## Il cambio di tema e\u0027 fluido\n\nPassando dal tema chiaro a quello scuro, o attivando il nero puro AMOLED, l\u0027app cambiava i colori di colpo. Ora li accompagna, come fa per ogni altra animazione.\n\n## L\u0027avviso di aggiornamento dell\u0027app e\u0027 piu\u0027 discreto\n\nNell\u0027intestazione, accanto al nome dell\u0027app, l\u0027avviso di nuova versione occupava spazio con un\u0027etichetta. Ora e\u0027 una sola icona, allineata al titolo.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.9.9/ydke-forge-5.9.9.apk",
+    "apkSha256":  "F34477F372EE96A90E9AB6A26CD614D951E1CE71492BABB37B92BE4CCD56573F",
     "apkSize":  3852374,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.8",
-    "minVersionCode":  111
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.9.9",
+    "minVersionCode":  112
 }

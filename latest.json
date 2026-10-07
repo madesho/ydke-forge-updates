@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.2",
-    "versionCode":  118,
-    "changelog":  "# YDKE Forge 6.2\n\n## Un catalogo delle carte piu\u0027 ordinato dentro l\u0027app\n\nQuesta versione non cambia niente di quello che vedi: schermate, funzioni e comportamento restano identici. Il lavoro e\u0027 tutto dentro l\u0027app, dove il codice che legge il catalogo delle carte, quello che lo aggiorna con le novita\u0027 delle fonti, quello che tiene traccia dell\u0027avanzamento della sincronizzazione e quello che si prende cura dello spazio occupato sul dispositivo sono ora separati per compito: una base piu\u0027 solida e piu\u0027 semplice da mantenere, su cui costruire le prossime novita\u0027.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.2/ydke-forge-6.2.apk",
-    "apkSha256":  "CC1BFAAA12B4A2E1F112608DB549B7E0CE399E72BCA278C09A9347337827C22C",
+    "versionName":  "6.3",
+    "versionCode":  119,
+    "changelog":  "# YDKE Forge 6.3\n\n## Un motore di conversione e ricerca piu\u0027 ordinato dentro l\u0027app\n\nQuesta versione non cambia niente di quello che vedi: schermate, funzioni e comportamento restano identici. Il lavoro e\u0027 tutto dentro l\u0027app, dove la lettura delle decklist, la conversione nel formato YDKE, la corrispondenza dei nomi delle carte e il motore che filtra e ordina il catalogo sono ora separati per compito: una base piu\u0027 solida e piu\u0027 semplice da mantenere, su cui costruire le prossime novita\u0027.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.3/ydke-forge-6.3.apk",
+    "apkSha256":  "A3A33261E20DCCEA8582FB2FB2A8AE0C40729AF1A0BD91D08F854581BC6F1C96",
     "apkSize":  3852177,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.2",
-    "minVersionCode":  118
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.3",
+    "minVersionCode":  119
 }

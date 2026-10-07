@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.5",
-    "versionCode":  121,
-    "changelog":  "# YDKE Forge 6.5\n\n## Le ultime parti superflue rimosse dall\u0027interno\n\nQuesta versione non cambia niente di quello che vedi: schermate, funzioni e comportamento restano identici. Il lavoro completa la riorganizzazione interna delle versioni precedenti: sono state rimosse le ultime parti non piu\u0027 utilizzate, per un\u0027app piu\u0027 snella e piu\u0027 semplice da mantenere, su cui costruire le prossime novita\u0027.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.5/ydke-forge-6.5.apk",
-    "apkSha256":  "916112200185520C967722C19BB30F8764354AEBC3940232698BC765A9B284FA",
-    "apkSize":  3868561,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.5",
-    "minVersionCode":  121
+    "versionName":  "6.6",
+    "versionCode":  122,
+    "changelog":  "# YDKE Forge 6.6\n\n## Ruotando resti dove sei, e il foglio di ordinamento si muove come gli altri\n\nRuotando il telefono non si torna piu\u0027 al Convertitore: si resta sulla scheda che si sta guardando, anche dentro un mazzo salvato. Il foglio di ordinamento e visualizzazione si apre e si chiude con lo stesso movimento degli altri fogli dell\u0027app.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.6/ydke-forge-6.6.apk",
+    "apkSha256":  "BFC0B7F6B4D622D900EF84839F8833314F5CD969BDFBB40298252BBFFCA3C5CC",
+    "apkSize":  3835793,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.6",
+    "minVersionCode":  122
 }

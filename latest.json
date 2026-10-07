@@ -1,10 +1,10 @@
 {
-    "versionName":  "5.11",
-    "versionCode":  115,
-    "changelog":  "# YDKE Forge 5.11\n\n## App alleggerita e ottimizzata dall\u0027interno\n\nRimosse dall\u0027interno le parti non piu\u0027 utilizzate e ridotte le ripetizioni: l\u0027app risulta piu\u0027 snella e piu\u0027 semplice da mantenere nel tempo, con l\u0027aspetto e le funzioni di sempre.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v5.11/ydke-forge-5.11.apk",
-    "apkSha256":  "8C3080FFEFC8BBC12A7367365BC6C64FBDFBA15FE42E23044020FE532F230BED",
-    "apkSize":  3852181,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v5.11",
-    "minVersionCode":  115
+    "versionName":  "6.0",
+    "versionCode":  116,
+    "changelog":  "# YDKE Forge 6.0\n\n## Un\u0027architettura interna piu\u0027 ordinata e piu\u0027 leggera\n\nQuesta versione non cambia niente di quello che vedi: schermate, funzioni e comportamento restano identici. Il lavoro e\u0027 tutto dentro l\u0027app, che ora ha una struttura piu\u0027 semplice e ordinata: una base piu\u0027 solida e piu\u0027 facile da mantenere, su cui costruire le prossime novita\u0027.\n\n## Il catalogo delle carte piu\u0027 essenziale\n\nIl database locale non porta piu\u0027 con se\u0027 un dato che veniva salvato ma non veniva mai letto. Le carte scaricate, i mazzi e le preferenze restano tutti al loro posto; al primo avvio dopo l\u0027aggiornamento il catalogo viene adattato una volta sola, senza riscaricarlo.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.0/ydke-forge-6.0.apk",
+    "apkSha256":  "CC3685C5A8DD6F990C128CCB57F1284AC37B1F8D8880939AE2E4411D54FC6239",
+    "apkSize":  3852177,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.0",
+    "minVersionCode":  116
 }

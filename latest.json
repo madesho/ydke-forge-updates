@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.6",
-    "versionCode":  122,
-    "changelog":  "# YDKE Forge 6.6\n\n## Ruotando resti dove sei, e il foglio di ordinamento si muove come gli altri\n\nRuotando il telefono non si torna piu\u0027 al Convertitore: si resta sulla scheda che si sta guardando, anche dentro un mazzo salvato. Il foglio di ordinamento e visualizzazione si apre e si chiude con lo stesso movimento degli altri fogli dell\u0027app.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.6/ydke-forge-6.6.apk",
-    "apkSha256":  "BFC0B7F6B4D622D900EF84839F8833314F5CD969BDFBB40298252BBFFCA3C5CC",
+    "versionName":  "6.7",
+    "versionCode":  123,
+    "changelog":  "# YDKE Forge 6.7\n\n## Il Convertitore piu\u0027 diretto: decklist a tutta altezza e risultati che arrivano da soli\n\nLa scheda Convertitore ora mostra solo la decklist e il pulsante Converti Mazzo, con l\u0027area di testo che occupa tutto lo spazio disponibile: finche\u0027 non converti la pagina non scorre e resta tutto fermo a portata.\n\nCon la tastiera aperta il pulsante resta appoggiato appena sopra di essa: l\u0027area della decklist mantiene la sua altezza e scorre al suo interno, invece di stringersi.\n\nQuando converti, i risultati compaiono sotto il pulsante e la pagina scende da sola per mostrarli per intero; lo fa anche a ogni nuova conversione, quando premi di nuovo il pulsante.\n\nSvuotando il campo (con la X o cancellando il testo) la schermata torna pulita e l\u0027area della decklist di nuovo a tutta altezza.\n\nI riquadri dei consigli sono usciti di scena: meno da leggere e piu\u0027 spazio per quello che serve.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7/ydke-forge-6.7.apk",
+    "apkSha256":  "294CF48C11B6898CBA599B14E47C9976DFAC355CC67AC56A5E4F8E943726FC28",
     "apkSize":  3835793,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.6",
-    "minVersionCode":  122
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7",
+    "minVersionCode":  123
 }

@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.7.2",
-    "versionCode":  125,
-    "changelog":  "# YDKE Forge 6.7.2\n\n## Il campo della decklist si apre al tocco, sempre\n\nLa tastiera si apre toccando un punto qualsiasi del campo anche quando il cursore è già dentro: prima, dopo aver chiuso la tastiera, il riquadro rispondeva solo nella parte alta.\n\n## Sotto il pulsante si vede la scheda\n\nCon la tastiera aperta la scheda del campo di testo ora prosegue fin sotto il pulsante \"Converti Mazzo\": è sparita la striscia del colore di sfondo che si notava soprattutto con il tema chiaro.\n\n## L\u0027ombra del pulsante è sempre presente mentre scrivi\n\nIl pulsante che galleggia sulla scheda ha ora la sua ombra morbida su tutto il perimetro: prima compariva solo scorrendo il contenuto.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7.2/ydke-forge-6.7.2.apk",
-    "apkSha256":  "F7837CB24A68681324DA6B09CC9B6E9F0FA32726CF532FDDB02D51142315A9A8",
-    "apkSize":  3835797,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7.2",
-    "minVersionCode":  125
+    "versionName":  "6.7.3",
+    "versionCode":  126,
+    "changelog":  "# YDKE Forge 6.7.3\n\n## L\u0027ombra del pulsante \"Converti Mazzo\" è ora più profonda\n\nL\u0027ombra avvolge il pulsante su tutto il perimetro ed è calibrata sul tema: più decisa di prima, e sugli schermi neri (AMOLED) il pulsante ha ora un sottile contorno di luce che lo stacca dal fondo.\n\n## Distanze del pulsante uniformi\n\nIl distacco fra il pulsante e il riquadro dei risultati è ora lo stesso che c\u0027è fra il pulsante e il campo della decklist.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7.3/ydke-forge-6.7.3.apk",
+    "apkSha256":  "00E052F09091460578B5A1325BACBC3573AC9933D5D80F1740D03C795EFE68D1",
+    "apkSize":  3835793,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7.3",
+    "minVersionCode":  126
 }

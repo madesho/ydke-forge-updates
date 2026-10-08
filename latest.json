@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.7.3",
-    "versionCode":  126,
-    "changelog":  "# YDKE Forge 6.7.3\n\n## L\u0027ombra del pulsante \"Converti Mazzo\" è ora più profonda\n\nL\u0027ombra avvolge il pulsante su tutto il perimetro ed è calibrata sul tema: più decisa di prima, e sugli schermi neri (AMOLED) il pulsante ha ora un sottile contorno di luce che lo stacca dal fondo.\n\n## Distanze del pulsante uniformi\n\nIl distacco fra il pulsante e il riquadro dei risultati è ora lo stesso che c\u0027è fra il pulsante e il campo della decklist.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7.3/ydke-forge-6.7.3.apk",
-    "apkSha256":  "00E052F09091460578B5A1325BACBC3573AC9933D5D80F1740D03C795EFE68D1",
-    "apkSize":  3835793,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7.3",
-    "minVersionCode":  126
+    "versionName":  "6.8",
+    "versionCode":  127,
+    "changelog":  "# YDKE Forge 6.8\n\n## Più fluida e reattiva\nL\u0027intera base tecnica dell\u0027app è stata portata all\u0027ultima generazione: scorrimento più fluido nelle liste e nel dettaglio delle carte, caricamento delle immagini più rapido, navigazione più scattante.\n\n## Sincronizzazione più affidabile\nAggiornati i componenti di rete e di archiviazione locale: connessioni più stabili alle fonti dei dati, risultati sempre aggiornati dopo le modifiche e meno blocchi durante le sincronizzazioni.\n\n## Solidità generale\nCorrezioni interne a traduzioni, conversione dei mazzi e aggiornamento del catalogo: meno casi limite e comportamento più prevedibile.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.8/ydke-forge-6.8.apk",
+    "apkSha256":  "B4A3F3F1538593C2FFCB87E3932434D88D091F8F9E6B21CF0C667266246E8C8C",
+    "apkSize":  3950014,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.8",
+    "minVersionCode":  127
 }

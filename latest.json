@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.7",
-    "versionCode":  123,
-    "changelog":  "# YDKE Forge 6.7\n\n## Il Convertitore piu\u0027 diretto: decklist a tutta altezza e risultati che arrivano da soli\n\nLa scheda Convertitore ora mostra solo la decklist e il pulsante Converti Mazzo, con l\u0027area di testo che occupa tutto lo spazio disponibile: finche\u0027 non converti la pagina non scorre e resta tutto fermo a portata.\n\nCon la tastiera aperta il pulsante resta appoggiato appena sopra di essa: l\u0027area della decklist mantiene la sua altezza e scorre al suo interno, invece di stringersi.\n\nQuando converti, i risultati compaiono sotto il pulsante e la pagina scende da sola per mostrarli per intero; lo fa anche a ogni nuova conversione, quando premi di nuovo il pulsante.\n\nSvuotando il campo (con la X o cancellando il testo) la schermata torna pulita e l\u0027area della decklist di nuovo a tutta altezza.\n\nI riquadri dei consigli sono usciti di scena: meno da leggere e piu\u0027 spazio per quello che serve.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7/ydke-forge-6.7.apk",
-    "apkSha256":  "294CF48C11B6898CBA599B14E47C9976DFAC355CC67AC56A5E4F8E943726FC28",
-    "apkSize":  3835793,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7",
-    "minVersionCode":  123
+    "versionName":  "6.7.1",
+    "versionCode":  124,
+    "changelog":  "# YDKE Forge 6.7.1\n\n## La tastiera si apre toccando un punto qualsiasi della decklist\n\nPrima il riquadro della decklist rispondeva solo toccandolo in alto; ora basta toccare un punto qualunque del campo per iniziare a scrivere.\n\n## Con la tastiera aperta il pulsante resta sulla scheda\n\nMentre scrivi, il pulsante \"Converti Mazzo\" galleggia sul fondo della scheda e il contenuto gli scorre sotto: è sparita la fascia scura che lo separava dal campo.\n\n## Spaziature del pulsante sistemate\n\nLa distanza fra il pulsante e la barra di navigazione è ora la stessa che c\u0027è fra il pulsante e la scheda: la parte bassa della schermata è allineata.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.7.1/ydke-forge-6.7.1.apk",
+    "apkSha256":  "A6C2B551BD5A8C11A5C9FAC2C182B52A155A012F8BA922654785D8A6E2350F49",
+    "apkSize":  3835797,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.7.1",
+    "minVersionCode":  124
 }

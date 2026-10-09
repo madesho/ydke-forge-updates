@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.8.1",
-    "versionCode":  128,
-    "changelog":  "# YDKE Forge 6.8.1\n\n## Ombra uniforme sui pulsanti flottanti\n\nI pulsanti flottanti di Mazzi (\"Aggiungi deck\") e del visualizzatore mazzo (\"Test mano\") hanno ora la stessa ombra del pulsante \"Converti Mazzo\": più profonda e avvolgente, calibrata su ciascun tema, con il sottile contorno di luce sugli schermi neri (AMOLED).",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.8.1/ydke-forge-6.8.1.apk",
-    "apkSha256":  "606B4FCF5FE9562A8C35F79D3D477B593DC611256A3E229D82016FC31C8D24C6",
-    "apkSize":  3950018,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.8.1",
-    "minVersionCode":  128
+    "versionName":  "6.9",
+    "versionCode":  129,
+    "changelog":  "# YDKE Forge 6.9\n\n## Stesso utilizzo, fondamenta più solide\n\nL\u0027app è stata riorganizzata internamente senza cambiare nulla dell\u0027esperienza d\u0027uso: interfaccia, funzioni e prestazioni sono identiche. Il codice che la fa funzionare è ora più ordinato e robusto, con meno punti fragili: meno rischi di blocchi inattesi e una manutenzione più semplice, per rilasci futuri più affidabili.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.9/ydke-forge-6.9.apk",
+    "apkSha256":  "60AF21F34665A3425EEDB0A46DED577A416F88958F75816CE2DEE6A769839BB8",
+    "apkSize":  3950014,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.9",
+    "minVersionCode":  129
 }

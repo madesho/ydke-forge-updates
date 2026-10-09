@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.9",
-    "versionCode":  129,
-    "changelog":  "# YDKE Forge 6.9\n\n## Stesso utilizzo, fondamenta più solide\n\nL\u0027app è stata riorganizzata internamente senza cambiare nulla dell\u0027esperienza d\u0027uso: interfaccia, funzioni e prestazioni sono identiche. Il codice che la fa funzionare è ora più ordinato e robusto, con meno punti fragili: meno rischi di blocchi inattesi e una manutenzione più semplice, per rilasci futuri più affidabili.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.9/ydke-forge-6.9.apk",
-    "apkSha256":  "60AF21F34665A3425EEDB0A46DED577A416F88958F75816CE2DEE6A769839BB8",
-    "apkSize":  3950014,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.9",
-    "minVersionCode":  129
+    "versionName":  "6.10",
+    "versionCode":  130,
+    "changelog":  "# YDKE Forge 6.10\n\n## Riordino interno completato\n\nSi chiude il lavoro di riorganizzazione interna: il codice che gestisce l\u0027interfaccia, i fogli di ordinamento, le impostazioni e la sincronizzazione del catalogo è ora diviso in moduli più piccoli e leggibili. Nessuna modifica visibile: schermate, testi e funzioni restano esattamente come li conosci, con una base più solida e più semplice da mantenere per le prossime evoluzioni.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.10/ydke-forge-6.10.apk",
+    "apkSha256":  "0B4E86059F545D9A75E54F9B7CAEE778C6039AF07964607C320E7C477FE9167A",
+    "apkSize":  3950018,
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.10",
+    "minVersionCode":  130
 }

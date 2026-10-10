@@ -1,10 +1,10 @@
 {
-  "versionName": "6.11",
-  "versionCode": 131,
-  "changelog": "\n## Interfaccia più armonica e rifinita\n\nTutte le schermate dell'applicazione sono state perfezionate nei dettagli visivi: i riquadri delle carte, le schede informative e le pagine delle impostazioni condividono ora le stesse tonalità di superficie, trasparenze bilanciate ed elementi grafici arrotondati e naturali. Le spaziature interne sono state armonizzate per offrire una lettura più riposante e un aspetto moderno, pulito e perfettamente allineato allo stile di sistema.\n\n## Solidità e reattività interna\n\nOttimizzata la gestione interna dei componenti e migliorata la stabilità generale dell'applicazione, garantendo un'esperienza d'uso ancora più fluida e affidabile in tutte le funzioni di ricerca, consultazione e conversione dei mazzi.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.11/ydke-forge-6.11.apk",
-  "apkSha256": "360C3A6D2FE37D9DA599D02794939C7BCB3C5580B368A492BE77FD15D2F30D6E",
+  "versionName": "6.12",
+  "versionCode": 132,
+  "changelog": "\n## Oltre 2.600 nuove traduzioni in italiano\n\nGrazie all'integrazione di una nuova fonte comunitaria per il catalogo delle carte, sono state aggiunte più di 2.600 traduzioni italiane precedentemente non disponibili. La copertura della lingua italiana nel database è ora sensibilmente più completa, riducendo al minimo le carte prive di descrizione nella nostra lingua.\n\n## Carte in arrivo e date di debutto\n\nMigliorato il riconoscimento delle nuove uscite OCG e TCG non ancora distribuite: la schermata \"Modifiche recenti\" e la ricerca delle carte identificano ora con precisione le carte in anteprima, mostrando sia nell'elenco che nella visualizzazione a griglia la data prevista di arrivo.\n\n## Ordinamento cronologico preciso\n\nRisolto il problema di posizionamento temporale nelle \"Modifiche recenti\": le carte aggiunte o aggiornate più di recente e le prossime espansioni vengono ora elencate nel perfetto ordine cronologico di rilascio.\n\n## Sincronizzazione più scattante e affidabile\n\nOttimizzata l'acquisizione dei dati e l'aggiornamento locale del catalogo, per una sincronizzazione più fluida, rapida e stabile durante il download e l'elaborazione dei dati di gioco.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12/ydke-forge-6.12.apk",
+  "apkSha256": "AEBF1BADFD95B3E1F9B330C530AB16B06F4ECF8A7D9523D0BCE57860AEB89636",
   "apkSize": 3950018,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.11",
-  "minVersionCode": 131
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12",
+  "minVersionCode": 132
 }

@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.11",
-    "versionCode":  131,
-    "changelog":  "# YDKE Forge 6.11\n\n## Interfaccia più armonica e rifinita\n\nTutte le schermate dell\u0027applicazione sono state perfezionate nei dettagli visivi: i riquadri delle carte, le schede informative e le pagine delle impostazioni condividono ora le stesse tonalità di superficie, trasparenze bilanciate ed elementi grafici arrotondati e naturali. Le spaziature interne sono state armonizzate per offrire una lettura più riposante e un aspetto moderno, pulito e perfettamente allineato allo stile di sistema.\n\n## Solidità e reattività interna\n\nOttimizzata la gestione interna dei componenti e migliorata la stabilità generale dell\u0027applicazione, garantendo un\u0027esperienza d\u0027uso ancora più fluida e affidabile in tutte le funzioni di ricerca, consultazione e conversione dei mazzi.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.11/ydke-forge-6.11.apk",
-    "apkSha256":  "76E5432E6C2ADA1E913F0E1AF17EC96F4594D5746ABDA7BA1AA2571A6F79F4A3",
-    "apkSize":  3950018,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.11",
-    "minVersionCode":  131
+  "versionName": "6.11",
+  "versionCode": 131,
+  "changelog": "\n## Interfaccia più armonica e rifinita\n\nTutte le schermate dell'applicazione sono state perfezionate nei dettagli visivi: i riquadri delle carte, le schede informative e le pagine delle impostazioni condividono ora le stesse tonalità di superficie, trasparenze bilanciate ed elementi grafici arrotondati e naturali. Le spaziature interne sono state armonizzate per offrire una lettura più riposante e un aspetto moderno, pulito e perfettamente allineato allo stile di sistema.\n\n## Solidità e reattività interna\n\nOttimizzata la gestione interna dei componenti e migliorata la stabilità generale dell'applicazione, garantendo un'esperienza d'uso ancora più fluida e affidabile in tutte le funzioni di ricerca, consultazione e conversione dei mazzi.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.11/ydke-forge-6.11.apk",
+  "apkSha256": "360C3A6D2FE37D9DA599D02794939C7BCB3C5580B368A492BE77FD15D2F30D6E",
+  "apkSize": 3950018,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.11",
+  "minVersionCode": 131
 }

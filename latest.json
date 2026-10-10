@@ -1,10 +1,10 @@
 {
-    "versionName":  "6.10",
-    "versionCode":  130,
-    "changelog":  "# YDKE Forge 6.10\n\n## Riordino interno completato\n\nSi chiude il lavoro di riorganizzazione interna: il codice che gestisce l\u0027interfaccia, i fogli di ordinamento, le impostazioni e la sincronizzazione del catalogo è ora diviso in moduli più piccoli e leggibili. Nessuna modifica visibile: schermate, testi e funzioni restano esattamente come li conosci, con una base più solida e più semplice da mantenere per le prossime evoluzioni.",
-    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.10/ydke-forge-6.10.apk",
-    "apkSha256":  "0B4E86059F545D9A75E54F9B7CAEE778C6039AF07964607C320E7C477FE9167A",
+    "versionName":  "6.11",
+    "versionCode":  131,
+    "changelog":  "# YDKE Forge 6.11\n\n## Interfaccia più armonica e rifinita\n\nTutte le schermate dell\u0027applicazione sono state perfezionate nei dettagli visivi: i riquadri delle carte, le schede informative e le pagine delle impostazioni condividono ora le stesse tonalità di superficie, trasparenze bilanciate ed elementi grafici arrotondati e naturali. Le spaziature interne sono state armonizzate per offrire una lettura più riposante e un aspetto moderno, pulito e perfettamente allineato allo stile di sistema.\n\n## Solidità e reattività interna\n\nOttimizzata la gestione interna dei componenti e migliorata la stabilità generale dell\u0027applicazione, garantendo un\u0027esperienza d\u0027uso ancora più fluida e affidabile in tutte le funzioni di ricerca, consultazione e conversione dei mazzi.",
+    "apkUrl":  "https://github.com/madesho/ydke-forge-updates/releases/download/v6.11/ydke-forge-6.11.apk",
+    "apkSha256":  "76E5432E6C2ADA1E913F0E1AF17EC96F4594D5746ABDA7BA1AA2571A6F79F4A3",
     "apkSize":  3950018,
-    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.10",
-    "minVersionCode":  130
+    "releasePageUrl":  "https://github.com/madesho/YDKE-Forge/releases/tag/v6.11",
+    "minVersionCode":  131
 }

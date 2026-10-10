@@ -1,10 +1,10 @@
 {
-  "versionName": "6.12",
-  "versionCode": 132,
-  "changelog": "\n## Oltre 2.600 nuove traduzioni in italiano\n\nGrazie all'integrazione di una nuova fonte comunitaria per il catalogo delle carte, sono state aggiunte più di 2.600 traduzioni italiane precedentemente non disponibili. La copertura della lingua italiana nel database è ora sensibilmente più completa, riducendo al minimo le carte prive di descrizione nella nostra lingua.\n\n## Carte in arrivo e date di debutto\n\nMigliorato il riconoscimento delle nuove uscite OCG e TCG non ancora distribuite: la schermata \"Modifiche recenti\" e la ricerca delle carte identificano ora con precisione le carte in anteprima, mostrando sia nell'elenco che nella visualizzazione a griglia la data prevista di arrivo.\n\n## Ordinamento cronologico preciso\n\nRisolto il problema di posizionamento temporale nelle \"Modifiche recenti\": le carte aggiunte o aggiornate più di recente e le prossime espansioni vengono ora elencate nel perfetto ordine cronologico di rilascio.\n\n## Sincronizzazione più scattante e affidabile\n\nOttimizzata l'acquisizione dei dati e l'aggiornamento locale del catalogo, per una sincronizzazione più fluida, rapida e stabile durante il download e l'elaborazione dei dati di gioco.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12/ydke-forge-6.12.apk",
-  "apkSha256": "AEBF1BADFD95B3E1F9B330C530AB16B06F4ECF8A7D9523D0BCE57860AEB89636",
-  "apkSize": 3950018,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12",
-  "minVersionCode": 132
+  "versionName": "6.12.1",
+  "versionCode": 133,
+  "changelog": "\n## Notifiche e messaggi più armoniosi\n\nI messaggi informativi e le notifiche a comparsa sono stati completamente ridisegnati per integrarsi alla perfezione con lo stile visivo dell'app. Presentano ora una nuova sagoma fluida e centrata, ombreggiature profonde a più livelli calibrate sui singoli temi, un contorno di luce perimetrale sugli schermi AMOLED e icone dedicate per riconoscere subito a colpo d'occhio lo stato dell'operazione. Inoltre, è ora possibile rimuovere immediatamente qualsiasi notifica con un semplice tocco sullo schermo.\n\n## Posizionamento intelligente e reattivo\n\nRisolto il problema di allineamento delle notifiche a scomparsa: l'altezza dei messaggi si adatta ora in modo dinamico all'interfaccia corrente, posizionandosi armoniosamente sopra la barra di navigazione quando è presente, oppure comodamente a filo della schermata nelle Impostazioni e nelle viste a schermo intero, senza lasciare alcuno spazio vuoto.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12.1/ydke-forge-6.12.1.apk",
+  "apkSha256": "BC1062D2C74AAA3ED895F5B86FECA3B83057220F1FC6C465CACF37D126605F54",
+  "apkSize": 3966406,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12.1",
+  "minVersionCode": 133
 }

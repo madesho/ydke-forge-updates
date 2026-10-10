@@ -1,10 +1,10 @@
 {
-  "versionName": "6.12.2",
-  "versionCode": 134,
-  "changelog": "\n## Coerenza estetica e colori d'accento\n\nLe notifiche e i messaggi dell'applicazione si armonizzano ora perfettamente con la palette cromatica e il tema anime selezionato. Le icone informative e di successo ereditano fedelmente i colori d'accento del tema attivo, mentre le segnalazioni di avviso utilizzano una tonalità ambrata dedicata, eliminando elementi cromatici discordanti.\n\n## Spaziature e allineamenti perfetti\n\nPerfezionate le distanze e i margini orizzontali in tutte le sezioni dell'app: la barra di stato nella ricerca carte e i pulsanti di selezione nelle modifiche recenti si allineano ora in modo millimetrico con il resto dei contenuti, offrendo un'esperienza visiva ancora più pulita, ordinata ed equilibrata.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12.2/ydke-forge-6.12.2.apk",
-  "apkSha256": "FAB5FD265826961E9E5801B476EC405C2D99675FBF40A23B7F8809E120181DFA",
-  "apkSize": 3966406,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12.2",
-  "minVersionCode": 134
+  "versionName": "6.13",
+  "versionCode": 135,
+  "changelog": "\n## Nuova suite di icone per l'applicazione\n\nPersonalizza l'aspetto dell'icona di YDKE Forge nella schermata home direttamente dalle Impostazioni (\"Aspetto e Lingua\"). È ora possibile scegliere tra 12 varianti studiate con precisione geometrica:\n- **Varianti Scure**: sfondo ossidiana profondo, bordi calibrati sui temi ispirati a Yu-Gi-Oh! (Classica terracotta, Oro Millenario, Blu Occhi Blu, Viola Mago Nero, Rosso Slifer) e stella del duellante tridimensionale dorata.\n- **Varianti Inverse**: sfondo a tinta unita del tema, interno carta coordinato allo sfondo e bordi color ossidiana, con la stella centrale incorniciata in ossidiana per un contrasto perfetto.\n- **Varianti Material You**: supporto per le icone a tinta dinamica del dispositivo (standard e inverso), con la stella che segue la palette cromatica generata dal tuo sfondo.\n\n## Retro delle carte fedele all'originale\n\nSostituito il precedente placeholder con una riproduzione grafica fedele e ad alta risoluzione del retro originale delle carte da gioco di Yu-Gi-Oh!, visibile nelle schermate di dettaglio, a tutto schermo e nei caricamenti.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.13/ydke-forge-6.13.apk",
+  "apkSha256": "6AB348947AAC1B6904364070EB5A51C25168A257B562B5EB53A0DFBA5F626601",
+  "apkSize": 4157759,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.13",
+  "minVersionCode": 135
 }

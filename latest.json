@@ -1,10 +1,10 @@
 {
-  "versionName": "6.13",
-  "versionCode": 135,
-  "changelog": "\n## Nuova suite di icone per l'applicazione\n\nPersonalizza l'aspetto dell'icona di YDKE Forge nella schermata home direttamente dalle Impostazioni (\"Aspetto e Lingua\"). È ora possibile scegliere tra 12 varianti studiate con precisione geometrica:\n- **Varianti Scure**: sfondo ossidiana profondo, bordi calibrati sui temi ispirati a Yu-Gi-Oh! (Classica terracotta, Oro Millenario, Blu Occhi Blu, Viola Mago Nero, Rosso Slifer) e stella del duellante tridimensionale dorata.\n- **Varianti Inverse**: sfondo a tinta unita del tema, interno carta coordinato allo sfondo e bordi color ossidiana, con la stella centrale incorniciata in ossidiana per un contrasto perfetto.\n- **Varianti Material You**: supporto per le icone a tinta dinamica del dispositivo (standard e inverso), con la stella che segue la palette cromatica generata dal tuo sfondo.\n\n## Retro delle carte fedele all'originale\n\nSostituito il precedente placeholder con una riproduzione grafica fedele e ad alta risoluzione del retro originale delle carte da gioco di Yu-Gi-Oh!, visibile nelle schermate di dettaglio, a tutto schermo e nei caricamenti.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.13/ydke-forge-6.13.apk",
-  "apkSha256": "6AB348947AAC1B6904364070EB5A51C25168A257B562B5EB53A0DFBA5F626601",
-  "apkSize": 4157759,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.13",
-  "minVersionCode": 135
+  "versionName": "6.13.1",
+  "versionCode": 136,
+  "changelog": "\n## Proporzioni e respiro dell'icona dell'applicazione\n\n- **Calibrazione per le Adaptive Icon**: Ottimizzate le dimensioni delle carte nell'icona dell'applicazione applicando una riduzione scalare del 22% (fattore 0.78x).\n- **Eliminato ogni ritaglio**: Le punte e i contorni delle carte rientrano ora comodamente all'interno della safe zone (66 dp) e della maschera circolare (72 dp) dei launcher Android, garantendo un respiro visivo armonioso e allineato con le altre icone di sistema senza alcun taglio perimetrale.\n- **Aggiornamento coordinato**: La nuova spaziatura è applicata a tutte le 12 varianti dell'icona (Standard, Inverse e Material You) e riflessa fedelmente nell'anteprima in-app della schermata \"Aspetto e Lingua\".",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.13.1/ydke-forge-6.13.1.apk",
+  "apkSha256": "961BDAAE8ABE9982A2C365800874583FD9D7F5EDC8D80B2B74C4BAE7F42C0E4C",
+  "apkSize": 4158375,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.13.1",
+  "minVersionCode": 136
 }

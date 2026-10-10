@@ -1,10 +1,10 @@
 {
-  "versionName": "6.12.1",
-  "versionCode": 133,
-  "changelog": "\n## Notifiche e messaggi più armoniosi\n\nI messaggi informativi e le notifiche a comparsa sono stati completamente ridisegnati per integrarsi alla perfezione con lo stile visivo dell'app. Presentano ora una nuova sagoma fluida e centrata, ombreggiature profonde a più livelli calibrate sui singoli temi, un contorno di luce perimetrale sugli schermi AMOLED e icone dedicate per riconoscere subito a colpo d'occhio lo stato dell'operazione. Inoltre, è ora possibile rimuovere immediatamente qualsiasi notifica con un semplice tocco sullo schermo.\n\n## Posizionamento intelligente e reattivo\n\nRisolto il problema di allineamento delle notifiche a scomparsa: l'altezza dei messaggi si adatta ora in modo dinamico all'interfaccia corrente, posizionandosi armoniosamente sopra la barra di navigazione quando è presente, oppure comodamente a filo della schermata nelle Impostazioni e nelle viste a schermo intero, senza lasciare alcuno spazio vuoto.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12.1/ydke-forge-6.12.1.apk",
-  "apkSha256": "BC1062D2C74AAA3ED895F5B86FECA3B83057220F1FC6C465CACF37D126605F54",
+  "versionName": "6.12.2",
+  "versionCode": 134,
+  "changelog": "\n## Coerenza estetica e colori d'accento\n\nLe notifiche e i messaggi dell'applicazione si armonizzano ora perfettamente con la palette cromatica e il tema anime selezionato. Le icone informative e di successo ereditano fedelmente i colori d'accento del tema attivo, mentre le segnalazioni di avviso utilizzano una tonalità ambrata dedicata, eliminando elementi cromatici discordanti.\n\n## Spaziature e allineamenti perfetti\n\nPerfezionate le distanze e i margini orizzontali in tutte le sezioni dell'app: la barra di stato nella ricerca carte e i pulsanti di selezione nelle modifiche recenti si allineano ora in modo millimetrico con il resto dei contenuti, offrendo un'esperienza visiva ancora più pulita, ordinata ed equilibrata.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.12.2/ydke-forge-6.12.2.apk",
+  "apkSha256": "FAB5FD265826961E9E5801B476EC405C2D99675FBF40A23B7F8809E120181DFA",
   "apkSize": 3966406,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12.1",
-  "minVersionCode": 133
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.12.2",
+  "minVersionCode": 134
 }

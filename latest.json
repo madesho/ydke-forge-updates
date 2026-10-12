@@ -1,10 +1,10 @@
 {
-  "versionName": "6.15",
-  "versionCode": 138,
-  "changelog": "\n## Zoom e visualizzazione della carta a tutto schermo\n\n- **Pinch-to-zoom stabile e preciso**: Risolto lo slittamento della visuale al rilascio delle dita durante il pinch-to-zoom a ingrandimento massimo. L'inquadratura rimane ora perfettamente ancorata sul punto osservato, con una risposta fluida e naturale su qualunque dettaglio della carta.\n\n## Prevenzione della perdita dati e sicurezza dei mazzi\n\n- **Conferma prima dell'eliminazione**: Aggiunto un dialogo di sicurezza esplicito prima dell'eliminazione definitiva di un mazzo salvato e durante la cancellazione multipla in blocco delle carte nel Deck Viewer, proteggendo le liste da tocchi involontari.\n\n## Navigazione di sistema e accessibilità\n\n- **Gesto Indietro coerente**: La pressione del tasto o gesto Indietro dalle sezioni di Ricerca e Mazzi Salvati riconduce ora comodamente al Convertitore anziché uscire direttamente dall'applicazione.\n- **Ergonomia tattile conforme (48 dp)**: Adeguate le dimensioni minime dei controlli touch nei fogli di filtro, nei pulsanti di destinazione sezione, nella condivisione e nei tab di selezione formato per garantire la massima comodità d'uso con una sola mano.\n- **Accessibilità e TalkBack**: Aggiunta la semantica per lettori di schermo nella selezione delle carte e garantito il perfetto adattamento visivo dei riquadri con impostazioni di ingrandimento dei caratteri fino a 1.3x.\n- **Stabilità e reattività delle liste**: Introdotte chiavi univoche nel simulatore delle mani pescate e ottimizzata la gestione della tastiera di sistema nel visualizzatore del mazzo.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.15/ydke-forge-6.15.apk",
-  "apkSha256": "27502B339BF7554493FDF8D1F526252AA5AA5BA7C1032CCA0EAEFDDC370585C2",
+  "versionName": "6.16",
+  "versionCode": 139,
+  "changelog": "\n## Zoom della carta a schermo intero\n\n- **Over-zoom elastico con resistenza progressiva**: Il pinch-to-zoom permette ora di allargare la carta oltre il limite massimo con una piacevole resistenza fisica progressiva. Al rilascio delle dita, l'immagine ritorna con un rimbalzo elastico fluido e calibrato alla dimensione standard, rimanendo perfettamente ancorata al punto focale osservato senza salti o spostamenti improvvisi.\n\n## Visualizzazione compatta delle carte\n\n- **Estetica bilanciata ed eliminazione degli spazi vuoti**: Ottimizzata la composizione visiva delle carte nella ricerca e nelle liste mazzo, ripristinando le proporzioni compatte attorno al nome della carta e rimuovendo gli spazi bianchi sproporzionati, preservando l'accessibilità dei testi con ridimensionamento di sistema in unità scalabili e ampie aree di interazione.\n\n## Spaziatura dei filtri e delle opzioni di visualizzazione\n\n- **Spaziatura uniforme per le chip**: Allineata la distanza verticale tra le righe di chip nella scheda dei filtri avanzati e nel foglio di ordinamento e layout, rendendola identica alla distanza orizzontale per un'interfaccia più ordinata, pulita e compatta.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.16/ydke-forge-6.16.apk",
+  "apkSha256": "198530B7060974CACC94835B4022FD6BA6A1E7003FD141C5A133482127273DBE",
   "apkSize": 4174807,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.15",
-  "minVersionCode": 138
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.16",
+  "minVersionCode": 139
 }

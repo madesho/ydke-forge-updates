@@ -1,10 +1,10 @@
 {
-  "versionName": "6.13.1",
-  "versionCode": 136,
-  "changelog": "\n## Proporzioni e respiro dell'icona dell'applicazione\n\n- **Calibrazione per le Adaptive Icon**: Ottimizzate le dimensioni delle carte nell'icona dell'applicazione applicando una riduzione scalare del 22% (fattore 0.78x).\n- **Eliminato ogni ritaglio**: Le punte e i contorni delle carte rientrano ora comodamente all'interno della safe zone (66 dp) e della maschera circolare (72 dp) dei launcher Android, garantendo un respiro visivo armonioso e allineato con le altre icone di sistema senza alcun taglio perimetrale.\n- **Aggiornamento coordinato**: La nuova spaziatura è applicata a tutte le 12 varianti dell'icona (Standard, Inverse e Material You) e riflessa fedelmente nell'anteprima in-app della schermata \"Aspetto e Lingua\".",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.13.1/ydke-forge-6.13.1.apk",
-  "apkSha256": "961BDAAE8ABE9982A2C365800874583FD9D7F5EDC8D80B2B74C4BAE7F42C0E4C",
-  "apkSize": 4158375,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.13.1",
-  "minVersionCode": 136
+  "versionName": "6.14",
+  "versionCode": 137,
+  "changelog": "\n## Design system Material 3 e rifinitura dell'interfaccia\n\n- **Forme e bottoni conformi al design system**: Tutti i pulsanti di azione nel convertitore, nell'anteprima e nei mazzi adottano la sagoma arrotondata standard Material 3 a 12 dp con altezza calibrata a 48 dp, offrendo un aspetto solido, moderno ed equilibrato.\n- **Transizioni e fisica naturale**: Ottimizzate le animazioni dei dialoghi e dell'anteprima delle carte a tutto schermo con curve fisiche di arresto prive di rimbalzi o oscillazioni visive artificiali.\n- **Supporto per tablet e schermi ampi**: L'interfaccia si adatta ora in modo intelligente sui display con larghezza superiore a 600 dp (tablet e dispositivi pieghevoli), trasformando automaticamente la barra inferiore in una comoda barra di navigazione laterale per sfruttare al meglio lo spazio orizzontale.\n\n## Diagnostica avanzata e sicurezza del mazzo\n\n- **Nuova scheda di diagnostica per carte non riconosciute**: In caso di refusi o carte non presenti nel database durante la conversione, l'applicazione mostra immediatamente un riquadro di avviso dedicato prima della condivisione della lista, prevenendo errori o penalità nei tornei ufficiali.\n\n## Accessibilità, ergonomia tattile e contrasti\n\n- **Controlli ed elementi touch calibrati a 48 dp**: Ingrandite e distanziate tutte le aree di tocco critiche (inclusi i pulsanti di incremento/decremento quantità nei mazzi, i chip di eliminazione, le icone di chiusura e i pulsanti dei filtri) nel pieno rispetto delle linee guida internazionali sull'accessibilità (ADA / WCAG), garantendo un'interazione sempre precisa e confortevole con una sola mano.\n- **Palette cromatica dinamica e contrasti perfetti**: Ridisegnati i selettori e le pillole delle statistiche del mazzo con token cromatici calcolati in tempo reale sulla base del tema scelto (Chiaro, Scuro, AMOLED puro e Material You dinamico), con contrasti ad alta leggibilità anche sotto la luce diretta del sole.\n- **Tipografia fluida**: Le dimensioni dei testi e dei badge di stato si ridimensionano ora armoniosamente con le impostazioni di ingrandimento caratteri del sistema operativo, senza sovrapposizioni o tagli.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.14/ydke-forge-6.14.apk",
+  "apkSha256": "48D5B9811FD1B0FFFBF317CBDA3DE0B6C942F06BB66DF895318E978EB8CF34CA",
+  "apkSize": 4174807,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.14",
+  "minVersionCode": 137
 }

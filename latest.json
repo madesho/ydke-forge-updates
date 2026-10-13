@@ -1,10 +1,10 @@
 {
-  "versionName": "6.22",
-  "versionCode": 145,
-  "changelog": "\n## Ricerca filtri avanzata e gestione chip\n\n- **Ricerca live all'interno dei filtri**: Aggiunta un'icona lente di ingrandimento nell'intestazione della scheda filtri che espande una barra di ricerca con messa a fuoco immediata, consentendo di filtrare istantaneamente tutte le categorie di chip sia per nome italiano che inglese.\n- **Riorganizzazione visiva e categorie contestuali**: Durante la ricerca nei filtri, le categorie prive di corrispondenze vengono nascoste automaticamente e lo spazio è ottimizzato per mostrare subito le opzioni desiderate con feedback visivo dedicato.\n\n## Accessibilità, ergonomia del tocco e coerenza visiva\n\n- **Touch target a norma Material 3 per i Deck Box**: L'icona del mazzo nella testata del visualizzatore e nelle card dei mazzi salvati dispone ora di un'area di interazione ampliata a 48x48 dp, garantendo una risposta al tocco affidabile e priva di attriti per la personalizzazione del colore.\n- **Armonia tipografica e spaziature ritmiche nella ricerca**: Ottimizzata la spaziatura verticale nella scheda dei dettagli della carta nella ricerca, allineando con precisione il comando rapido di aggiunta carta e garantendo un flusso equilibrato tra titolo, attributi e statistiche.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.22/ydke-forge-6.22.apk",
-  "apkSha256": "6842BEDCDBCCFD4D48518528E3058FEB89ED0320050977D8A1538B86E51020F4",
-  "apkSize": 4222419,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.22",
-  "minVersionCode": 145
+  "versionName": "6.23",
+  "versionCode": 146,
+  "changelog": "\n## Ricerca carte, visualizzazione copie e allineamento visivo\n\n- **Bolla copie (1x/2x/3x) sempre in primo piano**: Riorganizzata la gerarchia dell'elemento carta con un livello overlay dedicato e z-index elevato, garantendo che l'indicatore circolare delle copie presenti nel mazzo non venga ritagliato dagli angoli arrotondati della card e risulti sempre visibile e integro in primo piano.\n- **Spaziatura verticale armonica**: Bilanciata la distribuzione dei contenuti nella lista delle carte della ricerca, con centratura verticale naturale rispetto all'artwork, spaziature ritmiche differenziate per titolo, attributi e statistiche, ed estensione del testo descrittivo fino a 4-6 righe per riempire l'altezza senza lasciare spazi vuoti.\n\n## Scheda filtri di ricerca\n\n- **Barra di ricerca filtri contestuale e permanente**: Rimossa l'icona lente dall'intestazione fissa e posizionata la casella di ricerca permanentemente visibile tra la sezione \"Modalità di ricerca\" e la sezione \"Tipo di carta\", con supporto alla cancellazione rapida e filtraggio in tempo reale di tutte le categorie e chip.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.23/ydke-forge-6.23.apk",
+  "apkSha256": "765D85084E567B48BF6AF6C811707656D6725052329E8B6706A570967CD05670",
+  "apkSize": 4238799,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.23",
+  "minVersionCode": 146
 }

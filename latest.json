@@ -1,10 +1,10 @@
 {
-  "versionName": "6.23",
-  "versionCode": 146,
-  "changelog": "\n## Ricerca carte, visualizzazione copie e allineamento visivo\n\n- **Bolla copie (1x/2x/3x) sempre in primo piano**: Riorganizzata la gerarchia dell'elemento carta con un livello overlay dedicato e z-index elevato, garantendo che l'indicatore circolare delle copie presenti nel mazzo non venga ritagliato dagli angoli arrotondati della card e risulti sempre visibile e integro in primo piano.\n- **Spaziatura verticale armonica**: Bilanciata la distribuzione dei contenuti nella lista delle carte della ricerca, con centratura verticale naturale rispetto all'artwork, spaziature ritmiche differenziate per titolo, attributi e statistiche, ed estensione del testo descrittivo fino a 4-6 righe per riempire l'altezza senza lasciare spazi vuoti.\n\n## Scheda filtri di ricerca\n\n- **Barra di ricerca filtri contestuale e permanente**: Rimossa l'icona lente dall'intestazione fissa e posizionata la casella di ricerca permanentemente visibile tra la sezione \"Modalità di ricerca\" e la sezione \"Tipo di carta\", con supporto alla cancellazione rapida e filtraggio in tempo reale di tutte le categorie e chip.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.23/ydke-forge-6.23.apk",
-  "apkSha256": "765D85084E567B48BF6AF6C811707656D6725052329E8B6706A570967CD05670",
+  "versionName": "6.24",
+  "versionCode": 147,
+  "changelog": "\n## Visualizzatore immagini a schermo intero fluido con fisica avanzata\n\n- **Panning 1:1 istantaneo e reattivo**: Eliminata qualsiasi zona morta o ritardo nello scorrimento quando l'immagine è ingrandita; lo spostamento della carta segue il dito con assoluta precisione dal primo pixel di movimento.\n- **Inerzia e scivolamento naturale (Fling physics)**: Introdotto il tracciamento della velocità del tocco con decadimento inerziale esponenziale per uno scorrimento fluido e naturale delle carte zoomate.\n- **Micro-rimbalzo elastico e overscroll**: Al raggiungimento dei bordi durante lo scorrimento rapido, l'immagine assorbe l'impatto con un rimbalzo elastico ammortizzato verso il limite consentito.\n- **Chiusura con scorrimento verso il basso (Swipe-to-dismiss)**: A dimensione standard (1x), un trascinamento deciso verso il basso congeda l'immagine con dissolvenza graduale dello sfondo scuro e transizione fluida verso la schermata sottostante.\n- **Doppio tocco intelligente**: Doppio tocco rapido per ingrandire esattamente nel punto toccato (2.5x) e doppio tocco per ripristinare la dimensione originale (1x) con animazione bilanciata.\n\n## Perfezionamento interfaccia e segnaposto\n\n- **Ricerca filtri immediata**: Testo segnaposto della casella di ricerca filtri semplificato e reso più diretto (\"Cerca tra i filtri...\").\n- **Convertitore mazzi**: Rimosso il prefisso ridondante \"#main\" dal testo segnaposto illustrativo nell'area di inserimento della lista.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.24/ydke-forge-6.24.apk",
+  "apkSha256": "01E6EE11E1988253CDD9DB078AF2B82D2082783432715951CD8A38FD0592A0E3",
   "apkSize": 4238799,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.23",
-  "minVersionCode": 146
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.24",
+  "minVersionCode": 147
 }

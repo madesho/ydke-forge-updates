@@ -1,10 +1,10 @@
 {
-  "versionName": "6.27.3",
-  "versionCode": 154,
-  "changelog": "\n## Accessibilità, coerenza cromatica Material 3, adattività tablet e stabilità\n\n- **Consistenza cromatica e contrasto Material 3 Expressive**: Armonizzate tutte le tinte, i badge numerici, le sezioni statistiche e i componenti del convertitore con la palette semantica di sistema, garantendo una leggibilità ottimale (contrasto elevato > 4.5:1) in modalità Scura, Chiara, AMOLED puro e con colori dinamici Material You.\n- **Accessibilità vocale e navigazione assistita TalkBack**: Perfezionata la sintesi vocale TalkBack eliminando annunci ripetuti nella barra di navigazione inferiore, introducendo la localizzazione completa delle direzioni cardinali per le frecce dei mostri Link e aggiungendo ruoli semantici chiari per le opzioni dei menu e le tessere dell'aspetto.\n- **Target di tocco ergonomici e dialoghi bilingue**: Ampliata l'area di contatto per la selezione del colore del mazzo nel visualizzatore torneo a 48 dp conformemente agli standard di accessibilità, e garantito il supporto bilingue completo (italiano e inglese) per la finestra di dialogo del codice QR.\n- **Protezione da cancellazione accidentale delle decklist**: Introdotta una richiesta di conferma di sicurezza all'azzeramento del campo di testo del convertitore in presenza di mazzi articolati, prevenendo la perdita involontaria di liste inserite.\n- **Adattività per schermi ampi e tablet**: La schermata dei mazzi salvati adotta una griglia adattiva su display di ampie dimensioni (tablet e dispositivi pieghevoli), organizzando le schede in modo ordinato e bilanciato ed evitando dilatazioni orizzontali eccessive.\n- **Prestazioni di rendering e reattività generale**: Ottimizzata la gestione interna degli stati dell'interfaccia e azzerate le allocazioni nei componenti ad alta frequenza di scorrimento, rendendo le animazioni e l'esplorazione delle modifiche recenti ancora più fluide e prive di micro-rallentamenti.\n- **Resilienza e coerenza della ricerca nel catalogo**: Perfezionata la precisione delle query di ricerca con filtri multipli e ottimizzato il tracciamento dei controlli differenziali per il download delle traduzioni ufficiali del database.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.27.3/ydke-forge-6.27.3.apk",
-  "apkSha256": "1AE23D25CBF8373B09832A3FAA54C0473F3A2948836D200457923DA0FBAADDE8",
-  "apkSize": 3897039,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.27.3",
-  "minVersionCode": 154
+  "versionName": "6.27.4",
+  "versionCode": 155,
+  "changelog": "\n## Pulizia visiva dei risultati di ricerca e bilanciamento layout\n\n- **Pulizia visiva dell'elenco carte nella ricerca**: Rimossa la barra verticale colorata a fianco dell'illustrazione della carta nella vista a lista dei risultati di ricerca, uniformando la spaziatura a 12 dp tra la miniatura e i dettagli informativi sia nel tema classico che nel layout Belka per un aspetto più pulito, lineare e armonioso.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.27.4/ydke-forge-6.27.4.apk",
+  "apkSha256": "C6F08418E087359DFD342F356707E8C6BBBB7EFECE7F161A826D6BD75AE3B71E",
+  "apkSize": 3897035,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.27.4",
+  "minVersionCode": 155
 }

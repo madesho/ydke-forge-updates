@@ -1,10 +1,10 @@
 {
-  "versionName": "6.28",
-  "versionCode": 156,
-  "changelog": "\n## Raffinatezza visiva, sfocatura nativa e reattività dell'interfaccia\n\n- **Sfocatura naturale dietro finestre e pannelli compatti**: Sui dispositivi con Android 12 o versioni successive, l'apertura del simulatore di apertura mano, del codice QR, dei dialoghi di conferma e del foglio di ordinamento e vista sfoca delicatamente la schermata sottostante, rispettando automaticamente l'eventuale preferenza di riduzione delle animazioni di sistema.\n- **Gerarchia cromatica e contrasto perfezionati in ogni tema**: Ricalibrate le superfici tonali, i bordi sottili attorno alle schede e alle miniature delle carte e il contrasto dei badge in modalità Scura, Chiara, AMOLED puro e Material You dinamico, sia nel layout classico che nell'interfaccia Belka.\n- **Micro-interazioni fluide e leggibilità numerica**: I selettori segmentati adottano ora un indicatore scorrevole animato, i contatori dei risultati e delle statistiche scorrono con cifre tabulari allineate, i pulsanti offrono un feedback tattile morbido alla pressione e le azioni di copia mostrano una conferma visiva immediata.\n- **Stabilità, digitazione nel convertitore e compatibilità Android**: Migliorata la fluidità di inserimento testo delle decklist lunghe nel convertitore senza perdita di caratteri, rimosso il puntino residuo dalle barre di avanzamento dei mazzi, ottimizzata la ricerca nel catalogo offline e aggiornata la compatibilità con le versioni più recenti di Android.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.28/ydke-forge-6.28.apk",
-  "apkSha256": "B782E1FE43C6A84EFAFE726EA31A2402C7A2F0BC925C889AD915D4D34C378B88",
+  "versionName": "6.28.1",
+  "versionCode": 157,
+  "changelog": "\n## Distinzione visiva tra interfaccia Normale e Belka e pulizia delle card\n\n- **Identità visiva distinta tra interfaccia Normale e Belka**: Il tema classico adotta superfici tonali morbide prive di bordi con angoli più ampi e pulsanti arrotondati a pillola, mentre il layout Belka mantiene le tessere Bento geometriche incorniciate da contorni sottili.\n- **Rimozione delle barrette verticali colorate dalle schede Belka**: Eliminate le bande verticali laterali sulle card dei mazzi salvati, sulle intestazioni delle sezioni nel visualizzatore mazzo e nella sezione Aspetto per uno stile più pulito, simmetrico e uniforme.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.28.1/ydke-forge-6.28.1.apk",
+  "apkSha256": "751811E66D65CD6E68B90153F8F949DAB0E0E8B14BDA3B6AEB3FA3D8A2E229F4",
   "apkSize": 4021547,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.28",
-  "minVersionCode": 156
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.28.1",
+  "minVersionCode": 157
 }

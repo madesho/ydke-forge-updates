@@ -1,10 +1,10 @@
 {
-  "versionName": "6.27.4",
-  "versionCode": 155,
-  "changelog": "\n## Pulizia visiva dei risultati di ricerca e bilanciamento layout\n\n- **Pulizia visiva dell'elenco carte nella ricerca**: Rimossa la barra verticale colorata a fianco dell'illustrazione della carta nella vista a lista dei risultati di ricerca, uniformando la spaziatura a 12 dp tra la miniatura e i dettagli informativi sia nel tema classico che nel layout Belka per un aspetto più pulito, lineare e armonioso.",
-  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.27.4/ydke-forge-6.27.4.apk",
-  "apkSha256": "C6F08418E087359DFD342F356707E8C6BBBB7EFECE7F161A826D6BD75AE3B71E",
-  "apkSize": 3897035,
-  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.27.4",
-  "minVersionCode": 155
+  "versionName": "6.28",
+  "versionCode": 156,
+  "changelog": "\n## Raffinatezza visiva, sfocatura nativa e reattività dell'interfaccia\n\n- **Sfocatura naturale dietro finestre e pannelli compatti**: Sui dispositivi con Android 12 o versioni successive, l'apertura del simulatore di apertura mano, del codice QR, dei dialoghi di conferma e del foglio di ordinamento e vista sfoca delicatamente la schermata sottostante, rispettando automaticamente l'eventuale preferenza di riduzione delle animazioni di sistema.\n- **Gerarchia cromatica e contrasto perfezionati in ogni tema**: Ricalibrate le superfici tonali, i bordi sottili attorno alle schede e alle miniature delle carte e il contrasto dei badge in modalità Scura, Chiara, AMOLED puro e Material You dinamico, sia nel layout classico che nell'interfaccia Belka.\n- **Micro-interazioni fluide e leggibilità numerica**: I selettori segmentati adottano ora un indicatore scorrevole animato, i contatori dei risultati e delle statistiche scorrono con cifre tabulari allineate, i pulsanti offrono un feedback tattile morbido alla pressione e le azioni di copia mostrano una conferma visiva immediata.\n- **Stabilità, digitazione nel convertitore e compatibilità Android**: Migliorata la fluidità di inserimento testo delle decklist lunghe nel convertitore senza perdita di caratteri, rimosso il puntino residuo dalle barre di avanzamento dei mazzi, ottimizzata la ricerca nel catalogo offline e aggiornata la compatibilità con le versioni più recenti di Android.",
+  "apkUrl": "https://github.com/madesho/ydke-forge-updates/releases/download/v6.28/ydke-forge-6.28.apk",
+  "apkSha256": "B782E1FE43C6A84EFAFE726EA31A2402C7A2F0BC925C889AD915D4D34C378B88",
+  "apkSize": 4021547,
+  "releasePageUrl": "https://github.com/madesho/YDKE-Forge/releases/tag/v6.28",
+  "minVersionCode": 156
 }
